@@ -1,0 +1,32 @@
+\frametitle{Pulled XML Version}
+\scriptsize
+\begin{verbatim}
+     <AGCY>
+      <EAR>Farm</EAR>
+      <HD>Farm Service Agency</HD>
+      <CAT>
+        <HD>RULES</HD>
+        <DOCENT>
+          <DOC>Conservation Loan Program,</DOC>
+          <PGS>54005-54016</PGS>
+          <FRDOCBP D="11" T="03SER1.sgm">2010-22070</FRDOCBP>
+        </DOCENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Meetings:</SJ>
+        <SJDENT>
+          <SJDOC>Dairy Industry Advisory Committee,</SJDOC>
+          <PGS>54085-54086</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22013</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>FAA</EAR>
+      <HD>Federal Aviation Administration</HD>
+      <CAT>
+        <HD>PROPOSED RULES</HD>
+        <SJ>Proposed Modifications of Class E Airspace:</SJ>
+        <SJDENT>
+
+\end{verbatim}

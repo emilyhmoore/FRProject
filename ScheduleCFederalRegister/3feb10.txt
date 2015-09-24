@@ -1,0 +1,1156 @@
+    <AGCY>
+      <EAR>Agriculture</EAR>
+      <PRTPAGE P="iii"/>
+      <HD>Agriculture Department</HD>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Farm Service Agency</P>
+      </SEE>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Forest Service</P>
+      </SEE>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Rural Utilities Service</P>
+      </SEE>
+    <AGCY>
+      <EAR>Alcohol</EAR>
+      <HD>Alcohol, Tobacco, Firearms, and Explosives Bureau</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Agency Information Collection Activities; Proposals, Submissions, and Approvals,</DOC>
+          <PGS>54183-54184</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22086</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>Army</EAR>
+      <HD>Army Department</HD>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Engineers Corps</P>
+      </SEE>
+    <AGCY>
+      <EAR/>
+      <HD>Blind or Severely Disabled, Committee for Purchase From  People Who Are</HD>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Committee for Purchase From People Who Are Blind or Severely Disabled</P>
+      </SEE>
+    <AGCY>
+      <EAR/>
+      <HD>Bureau of Ocean Energy Management, Regulation and Enforcement</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Agency Information Collection Activities; Proposals, Submissions, and Approvals,</DOC>
+          <PGS>54164-54175</PGS>
+          <FRDOCBP D="11" T="03SEN1.sgm">2010-22049</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>Centers</EAR>
+      <HD>Centers for Disease Control and Prevention</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Agency Information Collection Activities; Proposals, Submissions, and Approvals,</DOC>
+          <PGS>54151-54152</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22053</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>Centers</EAR>
+      <HD>Centers for Medicare &amp; Medicaid Services</HD>
+      <CAT>
+        <HD>PROPOSED RULES</HD>
+        <SJ>Medicaid Program:</SJ>
+        <SJDENT>
+          <SJDOC>Withdrawal of Determination of Average Manufacturer Price, Multiple Source Drug Definition, and Upper Limits,</SJDOC>
+          <PGS>54073-54076</PGS>
+          <FRDOCBP D="3" T="03SEP1.sgm">2010-22115</FRDOCBP>
+        </SJDENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Agency Information Collection Activities; Proposals, Submissions, and Approvals,</DOC>
+          <PGS>54149-54151</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-21721</FRDOCBP>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-21722</FRDOCBP>
+        </DOCENT>
+        <DOCENT>
+          <DOC>Privacy Act; Systems of Records,</DOC>
+          <PGS>54162-54163</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22108</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>Coast Guard</EAR>
+      <HD>Coast Guard</HD>
+      <CAT>
+        <HD>RULES</HD>
+        <SJ>Drawbridge Operation Regulations:</SJ>
+        <SJDENT>
+          <SJDOC>Atlantic Intracoastal Waterway, Camp Lejeune, NC,</SJDOC>
+          <PGS>54023</PGS>
+          <FRDOCBP D="0" T="03SER1.sgm">2010-22033</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>Shaw Cove, New London, CT, Maintenance,</SJDOC>
+          <PGS>54024</PGS>
+          <FRDOCBP D="0" T="03SER1.sgm">2010-22035</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>Trent River, New Bern, NC,</SJDOC>
+          <PGS>54024-54025</PGS>
+          <FRDOCBP D="1" T="03SER1.sgm">2010-22036</FRDOCBP>
+        </SJDENT>
+        <DOCENT>
+          <DOC>Revision of LNG and LHG Waterfront Facility General Requirements,</DOC>
+          <PGS>54025</PGS>
+          <FRDOCBP D="0" T="03SER1.sgm">2010-22021</FRDOCBP>
+        </DOCENT>
+        <SJ>Safety Zones:</SJ>
+        <SJDENT>
+          <SJDOC>Red Bull Flugtag, Delaware River, Camden, NJ,</SJDOC>
+          <PGS>54026-54028</PGS>
+          <FRDOCBP D="2" T="03SER1.sgm">2010-22032</FRDOCBP>
+        </SJDENT>
+        <DOCENT>
+          <DOC>Salvage and Marine Firefighting Requirements; Vessel Response Plans for Oil,</DOC>
+          <PGS>54026</PGS>
+          <FRDOCBP D="0" T="03SER1.sgm">2010-22022</FRDOCBP>
+        </DOCENT>
+        <SJ>Vessel and Facility Response Plans for Oil:</SJ>
+        <SJDENT>
+          <SJDOC>2003 Removal Equipment Requirements and Alternative Technology Revisions,</SJDOC>
+          <PGS>54025-54026</PGS>
+          <FRDOCBP D="1" T="03SER1.sgm">2010-22026</FRDOCBP>
+        </SJDENT>
+      </CAT>
+      <CAT>
+        <HD>PROPOSED RULES</HD>
+        <SJ>Drawbridge Operation Regulations:</SJ>
+        <SJDENT>
+          <SJDOC>Curtis Creek, Baltimore, MD; Withdrawal,</SJDOC>
+          <PGS>54069</PGS>
+          <FRDOCBP D="0" T="03SEP1.sgm">2010-22034</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>Commerce</EAR>
+      <HD>Commerce Department</HD>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Economic Development Administration</P>
+      </SEE>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Foreign-Trade Zones Board</P>
+      </SEE>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>International Trade Administration</P>
+      </SEE>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>National Oceanic and Atmospheric Administration</P>
+      </SEE>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Patent and Trademark Office</P>
+      </SEE>
+    <AGCY>
+      <EAR>Committee for Purchase</EAR>
+      <HD>Committee for Purchase From People Who Are Blind or Severely Disabled</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Procurement List; Additions and Deletions,</DOC>
+          <PGS>54114-54115</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22054</FRDOCBP>
+        </DOCENT>
+        <DOCENT>
+          <DOC>Procurement List; Proposed Additions and Deletions,</DOC>
+          <PGS>54115</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22055</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>Comptroller</EAR>
+      <HD>Comptroller of the Currency</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Agency Information Collection Activities; Proposals, Submissions, and Approvals,</DOC>
+          <PGS>54227-54230</PGS>
+          <FRDOCBP D="3" T="03SEN1.sgm">2010-21538</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>Defense</EAR>
+      <HD>Defense Department</HD>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Engineers Corps</P>
+      </SEE>
+    <AGCY>
+      <EAR>Economic</EAR>
+      <HD>Economic Development Administration</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Petitions for Determinations of Eligibility To Apply for Trade Adjustment Assistance,</DOC>
+          <PGS>54094-54095</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22123</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>Employment</EAR>
+      <HD>Employment and Training Administration</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Determinations Regarding Eligibility To Apply for Worker Adjustment Assistance,</DOC>
+          <PGS>54184-54188</PGS>
+          <FRDOCBP D="4" T="03SEN1.sgm">2010-22104</FRDOCBP>
+        </DOCENT>
+        <DOCENT>
+          <DOC>Investigations Regarding Certifications of Eligibility To Apply for Worker Adjustment Assistance,</DOC>
+          <PGS>54188-54189</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22103</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>Energy</EAR>
+      <HD>Energy Department</HD>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Energy Information Administration</P>
+      </SEE>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Federal Energy Regulatory Commission</P>
+      </SEE>
+      <CAT>
+        <HD>PROPOSED RULES</HD>
+        <SJ>Energy Efficiency Program:</SJ>
+        <SJDENT>
+          <SJDOC>Test Procedure for Televisions,</SJDOC>
+          <PGS>54048-54052</PGS>
+          <FRDOCBP D="4" T="03SEP1.sgm">2010-22066</FRDOCBP>
+        </SJDENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Applications to Export Electric Energy:</SJ>
+        <SJDENT>
+          <SJDOC>Powerex Corp.,</SJDOC>
+          <PGS>54116-54117</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22064</FRDOCBP>
+        </SJDENT>
+        <SJ>Building Energy Standards Program; Preliminary Determinations:</SJ>
+        <SJDENT>
+          <SJDOC>Energy Efficiency Improvements in the Energy Standard for Buildings, etc.,</SJDOC>
+          <PGS>54117-54131</PGS>
+          <FRDOCBP D="14" T="03SEN1.sgm">2010-22060</FRDOCBP>
+        </SJDENT>
+        <DOCENT>
+          <DOC>Updating State Residential Building Energy Efficiency Codes,</DOC>
+          <PGS>54131-54142</PGS>
+          <FRDOCBP D="11" T="03SEN1.sgm">2010-22062</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>Energy</EAR>
+      <HD>Energy Information Administration</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Agency Information Collection Activities; Proposals, Submissions, and Approvals,</DOC>
+          <PGS>54143</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22069</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>Engineers</EAR>
+      <HD>Engineers Corps</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Intent To Grant Partially Exclusive Licenses:</SJ>
+        <SJDENT>
+          <SJDOC>Patent Application No. 12/243,084: Entitled Soluble Salt Produced From Biopolymer and Process for Producing Salt,</SJDOC>
+          <PGS>54115-54116</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22046</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>Patent Application No. 12/243,084; Soluble Salt Produced From Biopolymer and Process for Producing Salt,</SJDOC>
+          <PGS>54116</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22047</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>EPA</EAR>
+      <PRTPAGE P="iv"/>
+      <HD>Environmental Protection Agency</HD>
+      <CAT>
+        <HD>RULES</HD>
+        <SJ>Approvals and Promulgations of Implementation Plans:</SJ>
+        <SJDENT>
+          <SJDOC>Designation of Areas for Air Quality Planning Purposes; State of California, etc.,</SJDOC>
+          <PGS>54031-54033</PGS>
+          <FRDOCBP D="2" T="03SER1.sgm">2010-21960</FRDOCBP>
+        </SJDENT>
+        <SJ>Pesticide Tolerances:</SJ>
+        <SJDENT>
+          <SJDOC>Thiabendazole,</SJDOC>
+          <PGS>54033-54040</PGS>
+          <FRDOCBP D="7" T="03SER1.sgm">2010-22121</FRDOCBP>
+        </SJDENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Agency Information Collection Activities; Proposals, Submissions, and Approvals:</SJ>
+        <SJDENT>
+          <SJDOC>The SunWise Program,</SJDOC>
+          <PGS>54143-54145</PGS>
+          <FRDOCBP D="2" T="03SEN1.sgm">2010-22072</FRDOCBP>
+        </SJDENT>
+        <SJ>Environmental Impact Statements; Availability, etc.:</SJ>
+        <SJDENT>
+          <SJDOC>Weekly Receipt,</SJDOC>
+          <PGS>54145-54146</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22074</FRDOCBP>
+        </SJDENT>
+        <SJ>Meetings:</SJ>
+        <SJDENT>
+          <SJDOC>Clean Air Scientific Advisory Committee; Ambient Air Methods and Monitoring Subcommittee,</SJDOC>
+          <PGS>54146-54147</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22073</FRDOCBP>
+        </SJDENT>
+        <DOCENT>
+          <DOC>Product Cancellation Order for Certain Pesticide Registrations,</DOC>
+          <PGS>54147-54148</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-21952</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR/>
+      <HD>Executive Office of the President</HD>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Presidential Documents</P>
+      </SEE>
+    <AGCY>
+      <EAR>Farm</EAR>
+      <HD>Farm Service Agency</HD>
+      <CAT>
+        <HD>RULES</HD>
+        <DOCENT>
+          <DOC>Conservation Loan Program,</DOC>
+          <PGS>54005-54016</PGS>
+          <FRDOCBP D="11" T="03SER1.sgm">2010-22070</FRDOCBP>
+        </DOCENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Meetings:</SJ>
+        <SJDENT>
+          <SJDOC>Dairy Industry Advisory Committee,</SJDOC>
+          <PGS>54085-54086</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22013</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>FAA</EAR>
+      <HD>Federal Aviation Administration</HD>
+      <CAT>
+        <HD>PROPOSED RULES</HD>
+        <SJ>Proposed Modifications of Class E Airspace:</SJ>
+        <SJDENT>
+          <SJDOC>Portland, OR,</SJDOC>
+          <PGS>54057-54058</PGS>
+          <FRDOCBP D="1" T="03SEP1.sgm">2010-22099</FRDOCBP>
+        </SJDENT>
+        <SJ>Proposed Revocation of VOR Federal Airway V-284:</SJ>
+        <SJDENT>
+          <SJDOC>New Jersey,</SJDOC>
+          <PGS>54058-54059</PGS>
+          <FRDOCBP D="1" T="03SEP1.sgm">2010-22007</FRDOCBP>
+        </SJDENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Meetings:</SJ>
+        <SJDENT>
+          <SJDOC>Government/Industry Aeronuaticial Charting Forum,</SJDOC>
+          <PGS>54221</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-21925</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>RTCA NextGen Advisory Committee,</SJDOC>
+          <PGS>54221-54222</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22098</FRDOCBP>
+        </SJDENT>
+        <SJ>Waivers of Aeronautical Land-Use Assurance:</SJ>
+        <SJDENT>
+          <SJDOC>Williamson County Regional Airport, Marion, IL,</SJDOC>
+          <PGS>54224-54225</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-21922</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>FCC</EAR>
+      <HD>Federal Communications Commission</HD>
+      <CAT>
+        <HD>RULES</HD>
+        <SJ>Telecommunications Relay Services and Speech-to-Speech Services for Individuals With Hearing and Speech Disabilities:</SJ>
+        <SJDENT>
+          <SJDOC>Extension of Waiver,</SJDOC>
+          <PGS>54040-54041</PGS>
+          <FRDOCBP D="1" T="03SER1.sgm">2010-22122</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>FDIC</EAR>
+      <HD>Federal Deposit Insurance Corporation</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Agency Information Collection Activities; Proposals, Submissions, and Approvals,</DOC>
+          <PGS>54227-54230</PGS>
+          <FRDOCBP D="3" T="03SEN1.sgm">2010-21538</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>Federal Emergency</EAR>
+      <HD>Federal Emergency Management Agency</HD>
+      <CAT>
+        <HD>PROPOSED RULES</HD>
+        <SJ>National Flood Insurance Program:</SJ>
+        <SJDENT>
+          <SJDOC>Policy Wording Correction,</SJDOC>
+          <PGS>54076-54078</PGS>
+          <FRDOCBP D="2" T="03SEP1.sgm">2010-22045</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>Federal Energy</EAR>
+      <HD>Federal Energy Regulatory Commission</HD>
+      <CAT>
+        <HD>PROPOSED RULES</HD>
+        <SJ>Demand Response Compensation in Organized Wholesale Energy Markets:</SJ>
+        <SJDENT>
+          <SJDOC>Technical Conference,</SJDOC>
+          <PGS>54063-54064</PGS>
+          <FRDOCBP D="1" T="03SEP1.sgm">2010-21974</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>Federal Financial</EAR>
+      <HD>Federal Financial Institutions Examination Council</HD>
+      <CAT>
+        <HD>PROPOSED RULES</HD>
+        <DOCENT>
+          <DOC>Description of Office, Procedures, and Public Information,</DOC>
+          <PGS>54052-54056</PGS>
+          <FRDOCBP D="4" T="03SEP1.sgm">2010-21667</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>Federal Highway</EAR>
+      <HD>Federal Highway Administration</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Environmental Impact Statements; Availability, etc.:</SJ>
+        <SJDENT>
+          <SJDOC>Showhegan and Madison, Somerset County, ME,</SJDOC>
+          <PGS>54220-54221</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-21811</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>Federal Railroad</EAR>
+      <HD>Federal Railroad Administration</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Application for Approval of Discontinuance or Modification of a Railroad Signal System, etc.,</DOC>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22101</FRDOCBP>
+          <PGS>54219-54220</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22006</FRDOCBP>
+        </DOCENT>
+        <DOCENT>
+          <DOC>Petitions for Waivers of Compliance,</DOC>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22003</FRDOCBP>
+          <PGS>54222-54224</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22004</FRDOCBP>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22005</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>Federal Reserve</EAR>
+      <HD>Federal Reserve System</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Agency Information Collection Activities; Proposals, Submissions, and Approvals,</DOC>
+          <PGS>54227-54230</PGS>
+          <FRDOCBP D="3" T="03SEN1.sgm">2010-21538</FRDOCBP>
+        </DOCENT>
+        <SJ>Changes in Bank Control:</SJ>
+        <SJDENT>
+          <SJDOC>Acquisition of Shares of Banks or Bank Holding Companies,</SJDOC>
+          <PGS>54148</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22050</FRDOCBP>
+        </SJDENT>
+        <DOCENT>
+          <DOC>Formations of, Acquisitions by, and Mergers of Bank Holding Companies,</DOC>
+          <PGS>54148</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22051</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>Food</EAR>
+      <HD>Food and Drug Administration</HD>
+      <CAT>
+        <HD>RULES</HD>
+        <SJ>Implantation or Injectable Dosage Form New Animal Drugs:</SJ>
+        <SJDENT>
+          <SJDOC>Florfenicol and Flunixin,</SJDOC>
+          <PGS>54018-54019</PGS>
+          <FRDOCBP D="1" T="03SER1.sgm">2010-22039</FRDOCBP>
+        </SJDENT>
+        <SJ>New Animal Drugs for Use in Animal Feed:</SJ>
+        <SJDENT>
+          <SJDOC>Ractopamine,</SJDOC>
+          <PGS>54019-54020</PGS>
+          <FRDOCBP D="1" T="03SER1.sgm">2010-22071</FRDOCBP>
+        </SJDENT>
+        <SJ>New Animal Drugs:</SJ>
+        <SJDENT>
+          <SJDOC>Change of Sponsor's Name and Address,</SJDOC>
+          <PGS>54016-54017</PGS>
+          <FRDOCBP D="1" T="03SER1.sgm">2010-22044</FRDOCBP>
+        </SJDENT>
+        <SJ>New Animal Drugs; Change of Sponsor:</SJ>
+        <SJDENT>
+          <SJDOC>Penicillin G Benzathine and Penicillin G Procaine Suspension; Penicillin G Procaine Aqueous Suspension,</SJDOC>
+          <PGS>54017</PGS>
+          <FRDOCBP D="0" T="03SER1.sgm">2010-22042</FRDOCBP>
+        </SJDENT>
+        <SJ>Oral Dosage Form New Animal Drugs:</SJ>
+        <SJDENT>
+          <SJDOC>Praziquantel and Pyrantel,</SJDOC>
+          <PGS>54018</PGS>
+          <FRDOCBP D="0" T="03SER1.sgm">2010-22043</FRDOCBP>
+        </SJDENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Determination of Regulatory Review Period for Purposes of Patent Extension:</SJ>
+        <SJDENT>
+          <SJDOC>NEURX DIAPHRAGM PACING SYSTEM,</SJDOC>
+          <PGS>54152-54153</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22081</FRDOCBP>
+        </SJDENT>
+        <SJ>International Conference on Harmonisation:</SJ>
+        <SJDENT>
+          <SJDOC>Guidance on Q4B Evaluation and Recommendation of Pharmacopoeial Texts, etc.; Availability,</SJDOC>
+          <PGS>54153-54154</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-21991</FRDOCBP>
+        </SJDENT>
+        <SJ>Medical Devices:</SJ>
+        <SJDENT>
+          <SJDOC>Safety and Effectiveness Summaries for Premarket Approval Applications; Availability,</SJDOC>
+          <PGS>54154-54155</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22085</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>Foreign</EAR>
+      <HD>Foreign-Trade Zones Board</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Grant of Authority for Subzone Status:</SJ>
+        <SJDENT>
+          <SJDOC>CNH America, LLC (Agricultural Equipment Manufacturing); Grand Land, NE,</SJDOC>
+          <PGS>54092</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-21574</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>Forest</EAR>
+      <HD>Forest Service</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Environmental Impact Statements; Availability, etc.:</SJ>
+        <SJDENT>
+          <SJDOC>Big Moose Vegetation Management Project, Divide Ranger District, Rio Grande National Forest, CO,</SJDOC>
+          <PGS>54085</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22037</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>Health</EAR>
+      <HD>Health and Human Services Department</HD>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Centers for Disease Control and Prevention</P>
+      </SEE>
+      <SEE>
+        <PRTPAGE P="v"/>
+        <HD SOURCE="HED">See</HD>
+        <P>Centers for Medicare &amp; Medicaid Services</P>
+      </SEE>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Food and Drug Administration</P>
+      </SEE>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>National Institutes of Health</P>
+      </SEE>
+    <AGCY>
+      <EAR>Homeland</EAR>
+      <HD>Homeland Security Department</HD>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Coast Guard</P>
+      </SEE>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Federal Emergency Management Agency</P>
+      </SEE>
+    <AGCY>
+      <EAR>Housing</EAR>
+      <HD>Housing and Urban Development Department</HD>
+      <CAT>
+        <HD>RULES</HD>
+        <SJ>Federal Housing Administration Risk Management Initiatives:</SJ>
+        <SJDENT>
+          <SJDOC>New Loan-to-Value and Credit Score Requirements,</SJDOC>
+          <PGS>54020-54023</PGS>
+          <FRDOCBP D="3" T="03SER1.sgm">2010-22133</FRDOCBP>
+        </SJDENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Federal Property Suitable as Facilities To Assist the Homeless,</DOC>
+          <PGS>54236-54259</PGS>
+          <FRDOCBP D="23" T="03SEN2.sgm">2010-21731</FRDOCBP>
+        </DOCENT>
+        <SJ>Funding Availabilities:</SJ>
+        <SJDENT>
+          <SJDOC>Fiscal Year 2009 Section 202 Demonstration Pre-Development Grant Program,</SJDOC>
+          <PGS>54163</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22082</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>Interior</EAR>
+      <HD>Interior Department</HD>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Bureau of Ocean Energy Management, Regulation and Enforcement</P>
+      </SEE>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Land Management Bureau</P>
+      </SEE>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>National Park Service</P>
+      </SEE>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Renewal of the Lake Champlain Sea Lamprey Control Alternatives Workgroup,</DOC>
+          <PGS>54163-54164</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22059</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>IRS</EAR>
+      <HD>Internal Revenue Service</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Agency Information Collection Activities; Proposals, Submissions, and Approvals,</DOC>
+          <PGS>54226-54227, 54231-54232</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22014</FRDOCBP>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22015</FRDOCBP>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22016</FRDOCBP>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22017</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>International</EAR>
+      <HD>International Trade Administration</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Education Trade Mission to Indonesia and Vietnam,</DOC>
+          <PGS>54087-54089</PGS>
+          <FRDOCBP D="2" T="03SEN1.sgm">2010-22136</FRDOCBP>
+        </DOCENT>
+        <SJ>Extension of Time Limits for Preliminary Results of the Antidumping Duty Administrative Review:</SJ>
+        <SJDENT>
+          <SJDOC>Certain Cased Pencils From the People's Republic of China,</SJDOC>
+          <PGS>54089-54090</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22083</FRDOCBP>
+        </SJDENT>
+        <SJ>Final Results of Antidumping Duty Administrative Review:</SJ>
+        <SJDENT>
+          <SJDOC>Stainless Steel Bar From India,</SJDOC>
+          <PGS>54090-54091</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22084</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>Justice</EAR>
+      <HD>Justice Department</HD>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Alcohol, Tobacco, Firearms, and Explosives Bureau</P>
+      </SEE>
+    <AGCY>
+      <EAR>Labor</EAR>
+      <HD>Labor Department</HD>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Employment and Training Administration</P>
+      </SEE>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Occupational Safety and Health Administration</P>
+      </SEE>
+    <AGCY>
+      <EAR>Land</EAR>
+      <HD>Land Management Bureau</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Alaska Native Claims Selection,</DOC>
+          <PGS>54175-54176</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22067</FRDOCBP>
+        </DOCENT>
+        <SJ>Applications for Recordable Disclaimer of Interest:</SJ>
+        <SJDENT>
+          <SJDOC>Lands Underlying Kuskokwim River in Alaska,</SJDOC>
+          <PGS>54176</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22065</FRDOCBP>
+        </SJDENT>
+        <SJ>Environmental Impact Statements; Availability, etc.:</SJ>
+        <SJDENT>
+          <SJDOC>Jarbidge Field Office Resource Management Plan, Idaho,</SJDOC>
+          <PGS>54177-54179</PGS>
+          <FRDOCBP D="2" T="03SEN1.sgm">2010-21956</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>Tonopah Solar Energy Crescent Dunes Solar Energy Project, Nye County, NV,</SJDOC>
+          <PGS>54177</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-21958</FRDOCBP>
+        </SJDENT>
+        <SJ>Temporary Closures:</SJ>
+        <SJDENT>
+          <SJDOC>Lands West of North Menan Butte, ID,</SJDOC>
+          <PGS>54183</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22079</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>NASA</EAR>
+      <HD>National Aeronautics and Space Administration</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Agency Information Collection Activities; Proposals, Submissions, and Approvals,</DOC>
+          <PGS>54189-54190</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-21998</FRDOCBP>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-21999</FRDOCBP>
+        </DOCENT>
+        <SJ>Meetings:</SJ>
+        <SJDENT>
+          <SJDOC>NASA Advisory Council; Education and Public Outreach Committee,</SJDOC>
+          <PGS>54190</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22200</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>National Highway</EAR>
+      <HD>National Highway Traffic Safety Administration</HD>
+      <CAT>
+        <HD>RULES</HD>
+        <SJ>Insurer Reporting Requirements:</SJ>
+        <SJDENT>
+          <SJDOC>List of Insurers Required To File Reports,</SJDOC>
+          <PGS>54041-54044</PGS>
+          <FRDOCBP D="3" T="03SER1.sgm">2010-21945</FRDOCBP>
+        </SJDENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Agency Information Collection Activities; Proposals, Submissions, and Approvals,</DOC>
+          <PGS>54217-54218</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22011</FRDOCBP>
+        </DOCENT>
+        <SJ>Agency Information Collection Activities; Proposals, Submissions, and Approvals:</SJ>
+        <SJDENT>
+          <SJDOC>Reports, Forms, and Recordkeeping Requirements,</SJDOC>
+          <PGS>54218-54219</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22008</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>NIH</EAR>
+      <HD>National Institutes of Health</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Meetings:</SJ>
+        <SJDENT>
+          <SJDOC>Center for Scientific Review,</SJDOC>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22096</FRDOCBP>
+          <PGS>54156-54157, 54159-54160</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22120</FRDOCBP>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22128</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>Center for Scientific Review; Correction,</SJDOC>
+          <FRDOCBP D="0" T="03SEN1.sgm">C1--2010--22119</FRDOCBP>
+          <PGS>54160</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22119</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>Eunice Kennedy Shriver National Institute of Child Health and Human Development,</SJDOC>
+          <PGS>54155-54156, 54158-54159</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22087</FRDOCBP>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22097</FRDOCBP>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22100</FRDOCBP>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22107</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>National Cancer Institute,</SJDOC>
+          <PGS>54161-54162</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22093</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>National Center for Complementary and Alternative Medicine,</SJDOC>
+          <PGS>54161</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22094</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>National Institute of Dental and Craniofacial Research,</SJDOC>
+          <PGS>54157-54158</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22124</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>National Institute of Neurological Disorders and Stroke,</SJDOC>
+          <PGS>54162</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22088</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>National Institute on Aging,</SJDOC>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22089</FRDOCBP>
+          <PGS>54156, 54159-54161</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22106</FRDOCBP>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22109</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>National Library of Medicine,</SJDOC>
+          <PGS>54157</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22125</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>NOAA</EAR>
+      <HD>National Oceanic and Atmospheric Administration</HD>
+      <CAT>
+        <HD>RULES</HD>
+        <SJ>Fisheries in Western Pacific:</SJ>
+        <SJDENT>
+          <SJDOC>Community Development Program Process,</SJDOC>
+          <PGS>54044-54047</PGS>
+          <FRDOCBP D="3" T="03SER1.sgm">2010-22077</FRDOCBP>
+        </SJDENT>
+      </CAT>
+      <CAT>
+        <HD>PROPOSED RULES</HD>
+        <SJ>International Fisheries:</SJ>
+        <SJDENT>
+          <SJDOC>Pacific Tuna Fisheries; Vessel Capacity Limit in the Purse Seine Fishery in the Eastern Pacific Ocean,</SJDOC>
+          <PGS>54078-54083</PGS>
+          <FRDOCBP D="5" T="03SEP1.sgm">2010-22078</FRDOCBP>
+        </SJDENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Meetings:</SJ>
+        <SJDENT>
+          <SJDOC>New England Fishery Management Council,</SJDOC>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22091</FRDOCBP>
+          <PGS>54093</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22092</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>North Pacific Fishery Management Council,</SJDOC>
+          <PGS>54092</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22009</FRDOCBP>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22010</FRDOCBP>
+        </SJDENT>
+        <SJ>Permits:</SJ>
+        <SJDENT>
+          <SJDOC>Marine Mammals; File No. 4861790,</SJDOC>
+          <PGS>54094</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22076</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>Marine Mammals; File No. 5551870,</SJDOC>
+          <PGS>54093-54094</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22075</FRDOCBP>
+        </SJDENT>
+        <SJ>Takes of Marine Mammals Incidental to Specified Activities:</SJ>
+        <SJDENT>
+          <SJDOC>Low-Energy Marine Seismic Survey in the Eastern Tropical Pacific Ocean Off Central and South America,</SJDOC>
+          <PGS>54095-54114</PGS>
+          <FRDOCBP D="19" T="03SEN1.sgm">2010-22080</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>National Park</EAR>
+      <HD>National Park Service</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Implementation of Alternative Valuation Formulas for Leasehold Surrender Interests:</SJ>
+        <SJDENT>
+          <SJDOC>Signal Mountain Lodge and Leeks Marina Proposed Concession Contract, Grand Teton National Park,</SJDOC>
+          <PGS>54179-54183</PGS>
+          <FRDOCBP D="4" T="03SEN1.sgm">2010-22127</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>Nuclear</EAR>
+      <PRTPAGE P="vi"/>
+      <HD>Nuclear Regulatory Commission</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Environmental Impact Statements; Availability, etc.:</SJ>
+        <SJDENT>
+          <SJDOC>Southern Nuclear Operating Co., Vogtle Electric Generating Plant Units 3 and 4,</SJDOC>
+          <PGS>54190-54191</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22061</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>Occupational</EAR>
+      <HD>Occupational Safety and Health Administration</HD>
+      <CAT>
+        <HD>PROPOSED RULES</HD>
+        <SJ>Consultation Agreements:</SJ>
+        <SJDENT>
+          <SJDOC>Proposed Changes to Consultation Procedures,</SJDOC>
+          <PGS>54064-54069</PGS>
+          <FRDOCBP D="5" T="03SEP1.sgm">2010-22058</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>Patent</EAR>
+      <HD>Patent and Trademark Office</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Agency Information Collection Activities; Proposals, Submissions, and Approvals:</SJ>
+        <SJDENT>
+          <SJDOC>Global Intellectual Property Academy Program Survey,</SJDOC>
+          <PGS>54086-54087</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22041</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>Pension</EAR>
+      <HD>Pension Benefit Guaranty Corporation</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Pendency of Request for Exemptions From the Bond/Escrow Requirement Relating to the Sale of Assets, etc.:</SJ>
+        <SJDENT>
+          <SJDOC>Ricketts Acquisition LLC and the Chicago National League Ball Club, LLC,</SJDOC>
+          <PGS>54191-54192</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22012</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>Postal</EAR>
+      <HD>Postal Regulatory Commission</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Post Office Closing,</DOC>
+          <PGS>54192-54193</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22040</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>Presidential</EAR>
+      <HD>Presidential Documents</HD>
+      <CAT>
+        <HD>EXECUTIVE ORDERS</HD>
+        <DOCENT>
+          <DOC>Courts-Martial Manual, United States; Amendments (EO 13552),</DOC>
+          <PGS>54261-54270</PGS>
+          <FRDOCBP D="9" T="03SEE0.sgm">2010-22279</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>Public</EAR>
+      <HD>Public Debt Bureau</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Agency Information Collection Activities; Proposals, Submissions, and Approvals,</DOC>
+          <PGS>54226</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22126</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>RUS</EAR>
+      <HD>Rural Utilities Service</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Environmental Assessments; Availability, etc.:</SJ>
+        <SJDENT>
+          <SJDOC>Southern Maryland Electric Cooperative,</SJDOC>
+          <PGS>54084-54085</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22063</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>SEC</EAR>
+      <HD>Securities and Exchange Commission</HD>
+      <CAT>
+        <HD>PROPOSED RULES</HD>
+        <DOCENT>
+          <DOC>Extension of Filing Accommodation for Static Pool Information in Filings with Respect to Asset-Backed Securities,</DOC>
+          <PGS>54059-54063</PGS>
+          <FRDOCBP D="4" T="03SEP1.sgm">2010-22019</FRDOCBP>
+        </DOCENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Agency Information Collection Activities; Proposals, Submissions, and Approvals,</DOC>
+          <PGS>54193-54197</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22025</FRDOCBP>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22027</FRDOCBP>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22028</FRDOCBP>
+          <FRDOCBP D="2" T="03SEN1.sgm">2010-22030</FRDOCBP>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22031</FRDOCBP>
+        </DOCENT>
+        <DOCENT>
+          <DOC>Applications for Deregistration Under Section 8(f) of 1940 Investment Company Act,</DOC>
+          <PGS>54197-54199</PGS>
+          <FRDOCBP D="2" T="03SEN1.sgm">2010-22001</FRDOCBP>
+        </DOCENT>
+        <SJ>Self-Regulatory Organizations; Proposed Rule Changes:</SJ>
+        <SJDENT>
+          <SJDOC>BATS Exchange, Inc.; NASDAQ OMX BX, Inc.; Chicago Board Options Exchange, Inc. et al.,</SJDOC>
+          <PGS>54211</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22024</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>Financial Industry Regulatory Authority, Inc.,</SJDOC>
+          <PGS>54210-54211</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22029</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>NASDAQ OMX PHLX, Inc.,</SJDOC>
+          <PGS>54204-54210</PGS>
+          <FRDOCBP D="6" T="03SEN1.sgm">2010-22023</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>NYSE Arca, Inc.,</SJDOC>
+          <PGS>54199-54204</PGS>
+          <FRDOCBP D="5" T="03SEN1.sgm">2010-22111</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>Social</EAR>
+      <HD>Social Security Administration</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Agency Information Collection Activities; Proposals, Submissions, and Approvals,</DOC>
+          <PGS>54211-54213</PGS>
+          <FRDOCBP D="2" T="03SEN1.sgm">2010-22068</FRDOCBP>
+        </DOCENT>
+        <DOCENT>
+          <DOC>Privacy Act; Systems of Records,</DOC>
+          <PGS>54213-54214</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22000</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>Surface</EAR>
+      <HD>Surface Transportation Board</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Abandonment Exemptions:</SJ>
+        <SJDENT>
+          <SJDOC>CSX Transportation, Inc.; Clay County, KY,</SJDOC>
+          <PGS>54216-54217</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22020</FRDOCBP>
+        </SJDENT>
+        <SJDENT>
+          <SJDOC>East Penn Railroad, LLC, Montgomery County, Pa.,</SJDOC>
+          <PGS>54215-54216</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-21948</FRDOCBP>
+        </SJDENT>
+        <SJ>Operation Exemptions:</SJ>
+        <SJDENT>
+          <SJDOC>Piedmont and Northern Railway, Inc., North Carolina Department of Transportation,</SJDOC>
+          <PGS>54222</PGS>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22052</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    <AGCY>
+      <EAR>Thrift</EAR>
+      <HD>Thrift Supervision Office</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Agency Information Collection Activities; Proposals, Submissions, and Approvals,</DOC>
+          <PGS>54227-54230</PGS>
+          <FRDOCBP D="3" T="03SEN1.sgm">2010-21538</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    <AGCY>
+      <EAR>Transportation</EAR>
+      <HD>Transportation Department</HD>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Federal Aviation Administration</P>
+      </SEE>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Federal Highway Administration</P>
+      </SEE>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Federal Railroad Administration</P>
+      </SEE>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>National Highway Traffic Safety Administration</P>
+      </SEE>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Surface Transportation Board</P>
+      </SEE>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Agency Information Collection Activities; Proposals, Submissions, and Approvals:</SJ>
+        <SJDENT>
+          <SJDOC>Uniform Administrative Requi

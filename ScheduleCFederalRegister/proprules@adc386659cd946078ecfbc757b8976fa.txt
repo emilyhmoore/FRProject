@@ -1,0 +1,211 @@
+        <HD>PROPOSED RULES</HD>
+        <SJ>Medicaid Program:</SJ>
+        <SJDENT>
+          <SJDOC>Withdrawal of Determination of Average Manufacturer Price, Multiple Source Drug Definition, and Upper Limits,</SJDOC>
+          <PGS>54073-54076</PGS>
+          <FRDOCBP D="3" T="03SEP1.sgm">2010-22115</FRDOCBP>
+        </SJDENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Agency Information Collection Activities; Proposals, Submissions, and Approvals,</DOC>
+          <PGS>54149-54151</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-21721</FRDOCBP>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-21722</FRDOCBP>
+        <HD>PROPOSED RULES</HD>
+        <SJ>Drawbridge Operation Regulations:</SJ>
+        <SJDENT>
+          <SJDOC>Curtis Creek, Baltimore, MD; Withdrawal,</SJDOC>
+          <PGS>54069</PGS>
+          <FRDOCBP D="0" T="03SEP1.sgm">2010-22034</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    </AGCY>
+    <AGCY>
+      <EAR>Commerce</EAR>
+      <HD>Commerce Department</HD>
+      <SEE>
+        <HD SOURCE="HED">See</HD>
+        <P>Economic Development Administration</P>
+        <HD>PROPOSED RULES</HD>
+        <SJ>Energy Efficiency Program:</SJ>
+        <SJDENT>
+          <SJDOC>Test Procedure for Televisions,</SJDOC>
+          <PGS>54048-54052</PGS>
+          <FRDOCBP D="4" T="03SEP1.sgm">2010-22066</FRDOCBP>
+        </SJDENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Applications to Export Electric Energy:</SJ>
+        <SJDENT>
+          <SJDOC>Powerex Corp.,</SJDOC>
+          <PGS>54116-54117</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22064</FRDOCBP>
+        <HD>PROPOSED RULES</HD>
+        <SJ>Proposed Modifications of Class E Airspace:</SJ>
+        <SJDENT>
+          <SJDOC>Portland, OR,</SJDOC>
+          <PGS>54057-54058</PGS>
+          <FRDOCBP D="1" T="03SEP1.sgm">2010-22099</FRDOCBP>
+        </SJDENT>
+        <SJ>Proposed Revocation of VOR Federal Airway V-284:</SJ>
+        <SJDENT>
+          <SJDOC>New Jersey,</SJDOC>
+          <PGS>54058-54059</PGS>
+          <FRDOCBP D="1" T="03SEP1.sgm">2010-22007</FRDOCBP>
+        </SJDENT>
+      </CAT>
+      <CAT>
+        <HD>PROPOSED RULES</HD>
+        <SJ>National Flood Insurance Program:</SJ>
+        <SJDENT>
+          <SJDOC>Policy Wording Correction,</SJDOC>
+          <PGS>54076-54078</PGS>
+          <FRDOCBP D="2" T="03SEP1.sgm">2010-22045</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    </AGCY>
+    <AGCY>
+      <EAR>Federal Energy</EAR>
+      <HD>Federal Energy Regulatory Commission</HD>
+      <CAT>
+        <HD>PROPOSED RULES</HD>
+        <SJ>Demand Response Compensation in Organized Wholesale Energy Markets:</SJ>
+        <HD>PROPOSED RULES</HD>
+        <SJ>Demand Response Compensation in Organized Wholesale Energy Markets:</SJ>
+        <SJDENT>
+          <SJDOC>Technical Conference,</SJDOC>
+          <PGS>54063-54064</PGS>
+          <FRDOCBP D="1" T="03SEP1.sgm">2010-21974</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    </AGCY>
+    <AGCY>
+      <EAR>Federal Financial</EAR>
+      <HD>Federal Financial Institutions Examination Council</HD>
+      <CAT>
+        <HD>PROPOSED RULES</HD>
+        <DOCENT>
+        <HD>PROPOSED RULES</HD>
+        <DOCENT>
+          <DOC>Description of Office, Procedures, and Public Information,</DOC>
+          <PGS>54052-54056</PGS>
+          <FRDOCBP D="4" T="03SEP1.sgm">2010-21667</FRDOCBP>
+        </DOCENT>
+      </CAT>
+    </AGCY>
+    <AGCY>
+      <EAR>Federal Highway</EAR>
+      <HD>Federal Highway Administration</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Environmental Impact Statements; Availability, etc.:</SJ>
+        <SJDENT>
+        <HD>PROPOSED RULES</HD>
+        <SJ>International Fisheries:</SJ>
+        <SJDENT>
+          <SJDOC>Pacific Tuna Fisheries; Vessel Capacity Limit in the Purse Seine Fishery in the Eastern Pacific Ocean,</SJDOC>
+          <PGS>54078-54083</PGS>
+          <FRDOCBP D="5" T="03SEP1.sgm">2010-22078</FRDOCBP>
+        </SJDENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Meetings:</SJ>
+        <SJDENT>
+          <SJDOC>New England Fishery Management Council,</SJDOC>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22091</FRDOCBP>
+          <PGS>54093</PGS>
+        <HD>PROPOSED RULES</HD>
+        <SJ>Consultation Agreements:</SJ>
+        <SJDENT>
+          <SJDOC>Proposed Changes to Consultation Procedures,</SJDOC>
+          <PGS>54064-54069</PGS>
+          <FRDOCBP D="5" T="03SEP1.sgm">2010-22058</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    </AGCY>
+    <AGCY>
+      <EAR>Patent</EAR>
+      <HD>Patent and Trademark Office</HD>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Agency Information Collection Activities; Proposals, Submissions, and Approvals:</SJ>
+        <HD>PROPOSED RULES</HD>
+        <DOCENT>
+          <DOC>Extension of Filing Accommodation for Static Pool Information in Filings with Respect to Asset-Backed Securities,</DOC>
+          <PGS>54059-54063</PGS>
+          <FRDOCBP D="4" T="03SEP1.sgm">2010-22019</FRDOCBP>
+        </DOCENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+          <DOC>Agency Information Collection Activities; Proposals, Submissions, and Approvals,</DOC>
+          <PGS>54193-54197</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22025</FRDOCBP>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22027</FRDOCBP>
+          <FRDOCBP D="0" T="03SEN1.sgm">2010-22028</FRDOCBP>
+        <HD>PROPOSED RULES</HD>
+        <DOCENT>
+          <DOC>U.S. Paralympics Monthly Assistance Allowance,</DOC>
+          <PGS>54069-54073</PGS>
+          <FRDOCBP D="4" T="03SEP1.sgm">2010-21921</FRDOCBP>
+        </DOCENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Meetings:</SJ>
+        <SJDENT>
+          <SJDOC>Geriatrics and Gerontology Advisory Committee,</SJDOC>
+          <PGS>54232-54233</PGS>
+          <FRDOCBP D="1" T="03SEN1.sgm">2010-22018</FRDOCBP>
+        </SJDENT>
+P>
+        </DOCENT>
+      </CAT>
+    </AGCY>
+    <AGCY>
+      <EAR>Federal Highway</EAR>
+        <HD>PROPOSED RULES</HD>
+        <SJ>International Fisheries:</SJ>
+        <SJDENT>
+          <SJDOC>Pacific Tuna Fisheries; Vessel Capacity Limit in the Purse Seine Fishery in the Eastern Pacific Ocean,</SJDOC>
+          <PGS>54078-54083</PGS>
+          <FRDOCBP D="5" T="03SEP1.sgm">2010-22078</FRDOCBP>
+        </SJDENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <HD>PROPOSED RULES</HD>
+        <SJ>Consultation Agreements:</SJ>
+        <SJDENT>
+          <SJDOC>Proposed Changes to Consultation Procedures,</SJDOC>
+          <PGS>54064-54069</PGS>
+          <FRDOCBP D="5" T="03SEP1.sgm">2010-22058</FRDOCBP>
+        </SJDENT>
+      </CAT>
+    </AGCY>
+    <AGCY>
+        <HD>PROPOSED RULES</HD>
+        <DOCENT>
+          <DOC>Extension of Filing Accommodation for Static Pool Information in Filings with Respect to Asset-Backed Securities,</DOC>
+          <PGS>54059-54063</PGS>
+          <FRDOCBP D="4" T="03SEP1.sgm">2010-22019</FRDOCBP>
+        </DOCENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <DOCENT>
+        <HD>PROPOSED RULES</HD>
+        <DOCENT>
+          <DOC>U.S. Paralympics Monthly Assistance Allowance,</DOC>
+          <PGS>54069-54073</PGS>
+          <FRDOCBP D="4" T="03SEP1.sgm">2010-21921</FRDOCBP>
+        </DOCENT>
+      </CAT>
+      <CAT>
+        <HD>NOTICES</HD>
+        <SJ>Meetings:</SJ>

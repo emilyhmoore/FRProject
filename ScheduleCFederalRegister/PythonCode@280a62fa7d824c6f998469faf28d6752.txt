@@ -1,0 +1,36 @@
+file=open("".xml)
+
+lines=file.readlines()
+
+ruleLocations=[]
+for i in range(len(lines)):
+    if re.search("PROPOSED RULES", lines[i])!=None:
+            ruleLocations.append(i)
+
+for i in range(len(xrange(10))):
+    for j in range(len(xrange(10))):
+            lines[ruleLocations[i]+j]
+
+f = open("proprules.txt", "w")
+proprules=[]
+for i in range(len(xrange(11))):
+    for j in range(len(xrange(10))):
+			proprules.append(lines[ruleLocations[i]+j])
+
+for i in proprules:
+	f.write(i)
+	
+AgencyLocations=[]
+for i in range(len(lines)):
+    if re.search("<AGCY>", lines[i])!=None:
+            AgencyLocations.append(i)
+			
+			
+			
+agencystuff=[]
+for i in range(len(AgencyLocations)):
+	agencystuff.append(lines[AgencyLocations[i]:AgencyLocationsend[i]])
+	
+agencystuff=[item for sublist in agencystuff for item in sublist]
+for i in agencystuff:
+	f.write(i)

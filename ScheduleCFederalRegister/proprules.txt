@@ -1,0 +1,943 @@
+    <RULE>
+      <PREAMB>
+        <PRTPAGE P="54005"/>
+        <AGENCY TYPE="F">DEPARTMENT OF AGRICULTURE</AGENCY>
+        <SUBAGY>Farm Service Agency</SUBAGY>
+        <CFR>7 CFR Parts 761, 762, 764, 765, and 766</CFR>
+        <RIN>RIN 0560-AI04</RIN>
+        <SUBJECT>Conservation Loan Program</SUBJECT>
+        <AGY>
+          <HD SOURCE="HED">AGENCY:</HD>
+          <P>Farm Service Agency, USDA.</P>
+        </AGY>
+        <ACT>
+          <HD SOURCE="HED">ACTION:</HD>
+          <P>Interim final rule.</P>
+        </ACT>
+        <SUM>
+          <HD SOURCE="HED">SUMMARY:</HD>
+          <P>The Farm Service Agency (FSA) is implementing the new Conservation Loan (CL) Program authorized by the Food, Conservation, and Energy Act of 2008 (the 2008 Farm Bill). This interim rule adds the CL Program provisions to the existing direct and guaranteed loan regulations. These provisions will provide CL Program eligibility and servicing options for the direct and guaranteed loans made through the CL Program.</P>
+        </SUM>
+        <DATES>
+          <HD SOURCE="HED">DATES:</HD>
+          <P>
+            <E T="03">Effective Date:</E>This rule is effective September 3, 2010.</P>
+          <P>
+            <E T="03">Comment Date:</E>We will consider comments on this rule and on the information collection activities that we receive by November 2, 2010.</P>
+        </DATES>
+        <ADD>
+          <HD SOURCE="HED">ADDRESSES:</HD>
+
+          <P>We invite you to submit written comments on this interim rule and on the information collection. In your comment, include the volume, date, and page number of this issue of the<E T="04">Federal Register.</E>You may also send comments about the information collection requests to the Desk Officer for Agriculture, Office of Information and Regulatory Affairs, Office of Management and Budget, Washington, DC 20503. You may submit comments by any of the following methods:</P>
+          <P>•<E T="03">E-mail: connie.holman@wdc.usda.gov.</E>
+          </P>
+          <P>•<E T="03">Fax:</E>(202) 720-6797.</P>
+          <P>•<E T="03">Mail:</E>Director, Loan Making Division, FSA, USDA, 1400 Independence Avenue, SW., Stop 0522, Washington, DC 20250-0522.</P>
+          <P>•<E T="03">Hand Delivery or Courier:</E>Deliver comments to FSA, LMD, 1280 Maryland Avenue, SW., Suite 240, Washington, DC 20024.</P>
+          <P>•<E T="03">Federal eRulemaking Portal:</E>Go to<E T="03">http://www.regulations.gov.</E>Follow the online instructions for submitting comments.</P>
+          <P>Comments may be inspected in the Office of the Director, LMD, FSA, at 1280 Maryland Avenue, SW., Suite 240, Washington, DC, Monday through Friday between 8 a.m. and 4:30 p.m., except holidays.</P>
+        </ADD>
+        <FURINF>
+          <HD SOURCE="HED">FOR FURTHER INFORMATION CONTACT:</HD>
+
+          <P>Connie Holman, Senior Loan Officer, LMD, FSA; telephone: (202) 690-0756; fax: (202) 720-6797; e-mail:<E T="03">connie.holman@wdc.usda.gov.</E>Persons with disabilities or who require alternative means for communication (Braille, large print, audio tape, etc.) should contact the USDA Target Center at (202) 720-2600 (voice and TDD).</P>
+        </FURINF>
+      </PREAMB>
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+        <P/>
+        <HD SOURCE="HD1">Background</HD>
+        <P>Currently, FSA's Farm Loan Programs (FLP) regulations do not specifically address financing needs for approved conservation practices. Section 5002 of the 2008 Farm Bill (Pub. L. 110-246) amends section 304 of the Consolidated Farm and Rural Development Act (CONACT) (7 U.S.C. 1924) to authorize the Secretary to make or guarantee qualified conservation loans to eligible borrowers to cover the cost of carrying out a qualified conservation project. FSA is inserting CL Program provisions in the existing direct and guaranteed loan regulations and is therefore amending 7 CFR parts 761, 762, 764, 765, and 766 to include the CL program. This rule provides definitions, eligibility requirements, and program uses that will be specific only to the CL Program. The CL Program will also contain several specific exceptions that differ from many of FSA's more stringent traditional loan program requirements such as family farm requirements, test for credit, and graduation based on section 304 of the CONACT. In addition, in many cases FSA will partner with cost share programs provided by the Natural Resources and Conservation Service (NRCS), USDA, to provide funding for the implementation of qualified conservation practices as outlined in an approved conservation plan developed by NRCS.</P>
+        <HD SOURCE="HD1">Farm Loan Programs, General Program Administration</HD>
+        <P>The FLP General Program Administration regulations in 7 CFR part 761 include regulations addressing general provisions, supervised bank accounts, supervised credit, allocation of FLP funds to State offices. The regulations in 7 CFR part 761 provide the general and administrative regulations for both guaranteed and direct loans and will, therefore, apply to the CL Program.</P>
+        <HD SOURCE="HD1">Abbreviations and Definitions</HD>
+        <P>Abbreviations and definitions used throughout FSA FLP are in 7 CFR 761.2. This rule adds abbreviations and definitions to that part that will be used for both the direct and guaranteed loans made through the CL Program.</P>
+        <P>FSA will add abbreviations for “Conservation Loan” and “Natural Resources and Conservation Service.” These abbreviations will be used frequently and will allow for consistency throughout regulations and between the direct and guaranteed loan programs.</P>
+        <P>
+          <E T="03">Section 304 of the CONACT specifies the following definitions:</E>
+        </P>
+        <P>(1) “Qualified conservation loan” means “a loan, the proceeds of which are used to cover the costs to the borrower of carrying out a qualified conservation project.”</P>
+        <P>(2) “Qualified conservation project” means “conservation measures that address provisions of a conservation plan of the eligible borrower.”</P>
+        <P>(3) “Conservation plan” means</P>
+        
+        <EXTRACT>
+          <FP>a plan, approved by the Secretary, that, for a farming or ranching operation, identifies the conservation activities that will be addressed with loan funds provided under this section, including:</FP>
+          
+          <P>(A) The installation of conservation structures to address soil, water, and related resources;</P>
+          <P>(B) The establishment of forest cover for sustained yield timber management, erosion control, or shelter belt purposes;</P>
+          <P>(C) The installation of water conservation measures;</P>
+          <P>(D) The installation of waste management systems;</P>
+          <P>(E) The establishment or improvement of permanent pasture;</P>
+          <P>(F) Compliance with section 1212 of the Food Security Act of 1985; and</P>
+
+          <P>(G) Other purposes consistent with the plan, including the adoption of any other<PRTPAGE P="54006"/>emerging or existing conservation practices, techniques, or technologies approved by the Secretary.</P>
+        </EXTRACT>
+        
+        <P>FSA is adding definitions of “qualified conservation loan” and “qualified conservation project” into the regulations in § 761.2(b) with minor, nonsubstantive wording changes for consistency with the regulation. The defined terms will become “conservation loan” and “conservation project”.</P>
+        <P>FSA, in coordination with NRCS, is also adopting a more technically adequate definition of “conservation plan” to mean:</P>
+        
+        <EXTRACT>
+          <FP>an NRCS-approved written record of the land user's decisions and supporting information, for treatment of a land unit or water as a result of the planning process, that meets NRCS Field Office Technical Guide (FOTG) quality criteria for each natural resource (soil, water, air, plants, and animals) and takes into account economic and social considerations. The conservation plan describes the schedule of operations and activities needed to solve identified natural resource problems and takes advantage of opportunities at a conservation management system level. This definition only applies to the direct loans and guaranteed loans for the Conservation Loan Program.</FP>
+        </EXTRACT>
+        
+        <P>This definition of conservation plan provides consistency between FSA and NRCS procedures. FSA considers consistency especially important due to the statutory role that conservation plans play in eligibility for the CL Program.</P>
+        <P>FSA is revising the current definition for “graduation.” The change to the “graduation” definition of adding the words “except for Conservation Loans” is necessary because the CL Program does not include graduation provisions. Section 304 of the CONACT specifically states that section 333(1) and (3) graduation requirements do not apply.</P>
+        <P>FSA is revising the definitions for “beginning farmer” and “program loan” to add “CL” in the loan types listed in the definitions.</P>
+        <P>FSA is adding the definition for “streamlined conservation loan.” The definition is necessary because FSA will reduce paperwork requirements for applicants meeting certain criteria as discussed below.</P>
+        <HD SOURCE="HD1">Loan Limitations</HD>
+        <P>FSA is amending 7 CFR 761.8 to specify that the existing loan limits will apply to both the direct and guaranteed loans made through the CL Program. Direct and guaranteed CL limits will count toward both the individual and combined real estate (Subtitle A of the CONACT) loan program limits previously established and specified in the regulation based on section 305 of the CONACT. That section limits direct CLs under section 304 to the smaller of the value of the security or $300,000. Guaranteed CLs also are subject to the existing combined guaranteed loan limit of $700,000 (adjusted by inflation) under section 305.</P>
+        <HD SOURCE="HD1">Farm Assessment Requirements</HD>
+        <P>Periodically FSA FLP assesses each direct borrower's farming operation to determine financial condition, organizational structure, management strengths, credit counseling and training needs, and the appropriate level of oversight. This assessment is completed with the borrower to develop a plan to enhance the borrower's ability to progress in management skills financially to the point that the borrower is able to graduate from FSA and secure commercial credit. Section 761.103 specifies key factors that must be evaluated, at a minimum, for each operation. FSA is amending § 761.103 to provide that, for the applicants who have demonstrated the ability to meet certain requirements, FSA will not require historical performance and supervisor plans as part of the application process that are standard to other FLP loan applications. These applicants will be required to have a debt to asset ratio of 40 percent or less, a net worth of 3 times the loan amount, and a Fair Isaac Corporation (known as FICO) score of 700 or more. FSA believes that CL borrowers who met these requirements have demonstrated a high level of management skills and financial security. All CL Program borrowers would still be required to provide a current balance sheet annually along with income tax records, which would enable FSA to complete an abbreviated assessment. Any negative trends noted between balance sheets must be evaluated and addressed in the assessment.</P>
+        <P>FSA is requiring that if a CL borrower becomes financially distressed, delinquent, or receives any servicing options available in 7 CFR part 766, then all elements of the assessment must be included and addressed even if the loan was initially made under the reduced application exemption. This is necessary to fully assess the problem and correct any delinquency.</P>
+        <HD SOURCE="HD1">Year-End Analysis</HD>
+        <P>Since certain CL Program applicants provide reduced documentation for loan approval, FSA believes it would be inconsistent to require significant additional information for routine monitoring of the borrower's progress. Therefore, FSA is amending § 761.105 to exempt certain CL Program borrowers from a year-end analysis requirement. Borrowers that qualify for reduced documentation CLs will still be required to submit a current balance sheet annually with income tax records to facilitate FSA's loan monitoring process.</P>
+        <HD SOURCE="HD1">General Administrative Changes</HD>
+        <P>As discussed above, FSA is incorporating the CL Program into the existing FLP regulations in 7 CFR part 761. Specifically, FSA is making the following changes to accommodate the addition of the new CL Program into the regulations:</P>
+        <P>(1) In § 761.201 adding CL to the list of loans for allocation of funds;</P>
+        <P>(2) In § 761.202 adding CL to the list of loans in the timing of allocations;</P>
+        <P>(3) In § 761.204 adding CL to the list of loans in the methods of allocating funds to FSA State offices;</P>
+        <P>(4) In § 761.205 adding CL to the list of loans for computing the formula allocation; CLs will be treated like Farm Ownership (FO) loans rather than OLs for formula allocation purposes since they are real estate (Subtitle A) loans;</P>
+        <P>(5) In § 761.206 adding CL to the list of loans for pooling of unobligated funds allocated to State Offices; and</P>
+        <P>(6) In § 761.208 adding CL to the list of loan types that will receive target participation rates for socially disadvantaged groups in accordance with section 355 of the CONACT.</P>
+        <P>Section 304 of the CONACT specifies that in making or guaranteeing CLs, the following categories will be given funding priority (in addition to the target participation rates for socially disadvantaged farmers that are listed above in item 6):</P>
+        <P>(a) Beginning farmers and socially disadvantaged farmers;</P>
+        <P>(b) Owners or tenants who use the loans to convert to sustainable or organic agricultural production systems as defined in § 761.210; and</P>
+        <P>(c) Producers who use the loans to build conservation structures or establish conservation practices to comply with the highly erodible land conservation exemptions (section 1212 of the Food Security Act of 1985 (Pub. L. 99-198, commonly referred to as the 1985 Farm Bill, 16 U.S.C. 3812)).</P>
+
+        <P>Therefore, FSA is adding 7 CFR 761.210 to establish direct and guaranteed CL funds priority. Thirty-five percent of direct and guarantee CL funds will be targeted for these priorities in the first 6 months of each fiscal year. Once targets are removed from funding allocations, if a priority and a non-priority loan are approved on the same day, the priority request would always be funded before the non-<PRTPAGE P="54007"/>priority request. Additionally, approximately 15 percent of direct CL funds will be targeted for SDA participation rates in accordance with section 355 of the CONACT. Loans to SDA applicants will be funded first from funds targeted for SDA participation rates and when funds targeted for SDA participation are exhausted, then SDA loans will be funded from funds targeted for priority funding established by section 304 of the CONACT.</P>
+        <HD SOURCE="HD1">Guaranteed Loans; CL Program</HD>
+        <P>FSA is making the following changes to accommodate the addition of the new CL Program into the guaranteed loan regulations:</P>
+        <P>(1) In § 762.101 adding CL to the list of types of guarantees available through FSA;</P>
+        <P>(2) In § 762.106 adding CL to the list of types of guarantees that can be made to qualify for Certified Lender status and to amend references that will change as a result of adding the CL Program into the regulations;</P>
+        <P>(3) In § 762.120 adding CL to the list of types of guarantees for applicant eligibility; and</P>
+        <P>(4) In § 762.128 adding CL to the list of types of guarantees that are subject to environmental requirements found in part 1940 subpart G;</P>
+        <P>To determine whether a conservation project qualifies for a loan guarantee, FSA will rely on NRCS approved conservation plans. NRCS provides national leadership in the conservation of soil, water, and related natural resources. An approved NRCS conservation plan will provide evidence to support the eligibility of the applicant's proposed conservation measure. Therefore, FSA is amending § 762.110, “Loan Application,” to require applicants to obtain an approved NRCS conservation plan. The approved conservation plan must be included in a complete CL Program application package to apply for a loan guarantee.</P>
+        <P>Unlike traditional FSA loan programs, section 304 of the CONACT explicitly excludes the inability to obtain commercial credit as an eligibility requirement for the CL Program. FSA has reviewed the implications of extending credit to farmers with strong financial positions and examined the existing application requirements for guarantees as it relates to the assessment of an applicant's financial condition and ability to repay. Unlike applicants for FOs and OLs, some CL applicants will be very strong financially, with high debt service capacities and significantly more than adequate equity in assets to secure the requested loan. For CL applicants with exceptionally strong financial positions, it is not reasonable to require a lender to perform as intensive a cash flow analysis as is necessary for applicants with marginal financial positions. FSA is amending § 762.110 also to provide that certain CL applicants will be eligible for reduced application materials if the applicant is current on all payments to all creditors including FSA, has a debt-to-asset ratio of 40 percent or less, has a net worth of at least 3 times the loan amount, and has a minimum FICO credit score of 700. For entity applicants, because entity credit reports are not assigned FICO credit scores, FSA has determined that a majority of the individual entity members must have a personal FICO score of at least 700. Please note that the requirement for a majority of members to have a personal FICO credit score of at least 700 applies only to certain CLs. For CL guarantee applicants meeting all four of the above criteria, FSA is also amending § 762.110 to waive the cash flow budget requirement for a complete application. Since minimum standards to waive the cash flow budget requirement meet or exceed those of the private lending sector, these streamlined loan applications will minimize paperwork burden for loan guarantees, while only exposing FSA to a minimal risk of loss. The reduced paperwork requirement will not preclude the lender from requesting additional financial information, when necessary, as in their current non-guaranteed application procedures. These exempted application requirements are consistent with the direct CL Program, except that guaranteed CLs do not prohibit primary loan servicing within the past 5 years since such servicing is inapplicable to guaranteed loans. Other criteria were considered such as working capital and collateral position, but the criteria are most similar to practices used in the private lending sector when evaluating loan eligibility and FSA believes that these criteria will provide a strong and reliable indication of the likelihood that the loan will be repaid.</P>
+        <P>FSA is also amending § 762.125 to provide an exception to the requirement that the operation must project a feasible plan to be added for CL Program streamlined guarantees.</P>
+        <P>Since section 304 of the CONACT exempts CL applicants from the traditional test for credit eligibility relating to no credit elsewhere and graduation requirements, FSA is amending 7 CFR 762.110 to specify that the market placement program will not be applicable to the CL Program. The market placement program requires that when FSA determines that a direct applicant or borrower may qualify for guaranteed credit, the FSA may submit the applicant's financial information to one or more guaranteed lenders for their review and if the lender indicates interest in providing financing to the applicant or borrower through the guaranteed loan program, FSA would assist in completing the application for a guarantee.</P>
+        <P>Section 304 of the CONACT also explicitly exempts guaranteed CL applicants from the program eligibility requirement pertaining to the operation of a “family farm.” Family farms are farms where the majority of the labor and management decisions are provided by the farm family as specified in 7 CFR 761.2. Therefore, FSA is amending 7 CFR 762.120, “Applicant Eligibility,” to exempt CL applicants from both the test for credit and family farm eligibility requirements. This will facilitate timely implementation of conservation practices that would otherwise be postponed due to lack of monetary resources.</P>
+        <P>FSA is amending 7 CFR 762.121 to address the use of funds disbursed under the guaranteed CL Program. The list of conservation activities that may be included in a conservation plan is not intended to be all-inclusive, but is given as guidance to implement the CL Program. Uses are consistent for both the guaranteed and direct loan programs, except that refinancing is only allowed using guaranteed CL funds and only if the lender and the applicant can demonstrate the need to refinance. FSA will place no additional conservation project approval burden on applicants and will accept NRCS approval of projects in conservation plans as sufficient to ensure that the project meets the criteria and intent of the CL Program. CL guarantees may be used for any conservation project included in the NRCS approved conservation plan for an applicant determined eligible under guaranteed CL regulations.</P>
+        <P>FSA is amending § 762.124 to specify terms for CL guarantees. Terms will be limited to the life of the security pledged for the loan, but will not exceed 20 years from the date of the note. This is consistent with loan programs administered by FSA in the past that funded conservation practices and limited the loan term to 20 years. FSA believes this term will provide applicants adequate time to repay CLs.</P>
+
+        <P>CLs are exempted from the provision in § 762.125(a)(9) that prohibits loan funds from being used to support a non-eligible enterprise. Non-eligible enterprises are defined in § 761.2 as a business that produces exotic animals,<PRTPAGE P="54008"/>birds, and fish; produces non-farm animals, ordinarily used for pets, companionship or pleasure; markets non-farm goods; or processes farm products when the majority of the commodities are not produced by the farming operation. The intent of the CL Program, as specified in section 304 of the CONACT is to provide funding for qualified conservation projects, not to limit funding based on the particular type of enterprise. All conservation projects included in an approved conservation plan are expected to result in a net benefit to the environment. Projects that support an enterprise that FSA considers to be a non-eligible enterprise as defined in § 761.2 will be eligible for CL financing. FSA believes this exception is in keeping with the intent of the CL Program.</P>
+        <P>FSA will guarantee 75 percent of an approved CL. Other FSA guarantees cover up to 95 percent, but section 304 of the CONACT specifically limits the CL guarantee to 75 percent. While the CONACT limits guarantee of the principal amount of CL, FSA also will apply the 75 percent limit to loan losses from interest, advances, and recapture debt consistent with its treatment of other FLP guaranteed loan maximum losses. FSA is making amendments to §§ 762.129 and 762.130 to specify the 75 percent guarantee accordingly.</P>
+        <P>FSA will use existing guaranteed loan servicing procedures for CLs. Existing servicing procedures provide lenders with servicing tools beyond what is available on their non-guaranteed loans. The existing servicing tools have proven to be effective in allowing lenders to assist their customers and in the overall success of the guaranteed loan portfolio.</P>
+        <P>FSA is amending § 762.145 to:</P>
+        <P>(1) Require that when the lender requests restructuring options, the lender must certify that the CL borrower is in compliance with the conservation plan. Conservation plans are directly tied to eligibility for the CL Program, therefore, eligibility for servicing options should be directly tied to continuing compliance with the conservation plan.</P>
+        <P>(2) Specify that terms for restructuring guaranteed CLs cannot exceed 20 years from the date of the original note.</P>
+        <P>FSA is also amending §§ 762.147 and 762.148 to update existing citations.</P>
+        <HD SOURCE="HD1">Direct CL Program</HD>
+        <P>FSA is changing the following to accommodate the addition of the new CL Program into the direct loan regulations:</P>
+        <P>(1) In § 764.1, adding CL to the list of types of direct loans available through FSA; and</P>
+        <P>(2) In §§ 764.102 and 764.103, amending references that change as a result of adding the CL Program into the regulations.</P>
+        <P>As with the CL guarantee, to determine whether a conservation project qualifies for a CL direct loan, FSA will rely on the expertise of NRCS as related to conservation practices, and ultimately, conservation plans. An approved NRCS conservation plan will provide ample evidence to support the eligibility of the applicant's proposed conservation measure. Therefore, FSA is amending § 764.51, “Loan Application,” to require CL applicants to obtain an NRCS-approved conservation plan. The approved conservation plan must be included in a complete CL application package.</P>
+        <P>As explained above, section 304 of the CONACT explicitly excluded the inability to obtain commercial credit as an eligibility requirement for the CL program. FSA has reviewed the implications of extending credit to farmers with strong financial positions and examined the existing application requirements for FSA's other direct loan programs as it relates to the assessment of an applicant's financial condition and ability to repay. FSA is amending § 764.51 to provide that CL applicants do not have to submit documentation of the inability to obtain sufficient credit elsewhere at reasonable rates and terms. Unlike applicants for FSA other traditional direct loan programs, some CL applicants will be very strong financially, with high debt service capacities and significantly more than adequate equity in assets to secure the loan requested. For CL applicants with exceptionally strong financial positions, FSA will significantly reduce the paperwork required of these applicants. FSA is amending § 764.51 to provide that certain CL applicants will be eligible for reduced application requirements if the applicant is current on all payments to all creditors including FSA, has not received primary loan servicing on any FLP debt within the past 5 years, has a debt-to-asset ratio of 40 percent or less, has a net worth of at least 3 times the loan amount, and has a minimum FICO credit score of 700. For entity applicants, because entity credit reports are not assigned FICO credit scores, FSA has determined that a majority of the individual entity members must have a personal FICO score of at least 700. Please note that the requirement for a majority of members to have a personal FICO credit score of at least 700 applies only to loans granted to those who would be exempt from certain application requirements common to other loans. Other criteria were considered such as working capital and collateral position, but these criteria, which indicate a solid past history of debt repayment and the debt to asset ratio, net worth requirement, and minimum credit score, are most similar to practices used in the private lending sector when evaluating loan eligibility and will provide a strong and reliable indication of the likelihood that the loan will be repaid.</P>
+        <P>FSA is also amending 7 CFR 764.53, “Processing the Complete Application,” to specify that the market placement program requirements will not be applicable to the CL program as discussed above.</P>
+        <P>Section 304 of the CONACT explicitly exempts the CL Program direct loans from the program eligibility requirement pertaining to their inability to obtain credit from conventional sources under section 333 and did not require operation of a family farm as under section 302(a)(3). Under regulations applicable to other FSA FLP, loan assistance is limited to owner-operators or tenant-operators of family farms who temporarily lack the financial resources to obtain conventional credit at reasonable rate and terms. The exemption for CLs allows operators outside the scope of a family farm operation with financial strength to obtain credit from other lenders, an additional way to fund conservation projects. These changes benefit the environment and support existing and new sustainable and organic food production systems within the United States. Therefore, FSA is amending 7 CFR 764.101, “General Eligibility Requirements,” to exempt CL applicants from those requirements. FSA is also adding § 764.232 to limit CL eligibility to applicants meeting the eligibility requirements as specified in 7 CFR 764.101 with the same exceptions.</P>
+        <P>For FLP, as specified in 7 CFR 764. 103(e), FSA generally requires a lien on all assets, valued at more than $5,000, that are not essential to the farming operation and not being converted to cash to reduce the loan amount. Currently, downpayment loans and youth loans are exempt from the lien requirement. CL Program direct loan applicants will also be exempt from the lien requirement because of their expected stronger financial condition as compared to other FLP borrowers. Therefore, FSA is amending 7 CFR 764.103(e) to specify that the lien requirement and requirement to convert assets to cash do not apply to applicants for CL Program direct loans.</P>
+
+        <P>FSA is adding new subpart F, “Conservation Loan Program,” which<PRTPAGE P="54009"/>will include §§ 764.231 through 764.235. Section 764.231 specifies the use of funds disbursed under the direct CL Program. The list of conservation activities that may be included in a conservation plan is not intended to be all inclusive, but is given as guidance to implement the CL Program. Uses will be consistent with the CL guarantee program except the direct CL Program will not have provisions to provide for refinancing debt.</P>
+        <HD SOURCE="HD1">Limitations</HD>
+        <P>FSA is adding § 764.233, “Limitations,” to require applicants to comply with all limitations specified for direct program loans in § 764.102 except the prohibition that limits the use of loan funds to establish or support a non-eligible enterprise. As stated above for guaranteed loans, this exception is in keeping with the intent of the CL Program.</P>
+        <P>Section 764.233, also requires that any duplicative financial assistance provided for the same purpose from another source will be applied to the borrower's CL in accordance with § 765.152. This will provide a mechanism for FSA to provide funds “up front” for the construction of conservation projects and be able to collect any funds provided from other sources after construction or implementation is completed.</P>
+        <HD SOURCE="HD1">Rates and Terms</HD>
+        <P>FSA is adding § 764.234 to specify rates and terms for direct CLs. The interest rate will be the same as FSA's direct FO rate in accordance with section 307 of the CONACT. Loan rates are available at all FSA offices and on the FSA Web site. The interest rate will be at the lower of the rate in effect at the time of loan approval or at loan closing.</P>
+        <P>Direct CL terms will be limited to the life of the security pledged for the loan, but will not exceed 7 years for chattel only loans and 20 years from the date of the note for other CLs. This is consistent with loan programs administered by FSA in the past that funded conservation practices and were limited the loan term to 20 years. FSA believes this term provides applicants adequate time to repay CLs.</P>
+        <HD SOURCE="HD1">Security Requirements</HD>
+        <P>Section 764.235 is added to provide that direct CLs will be secured in accordance with the requirements specified in §§ 764.103-764.106, which is consistent with direct FO loans. FSA is adding security requirements and order of priority regulations to allow flexibility in securing direct CLs when NRCS-approved conservation practices are planned on real estate that is not owned by the applicant, or when the real estate is owned by the applicant, but taking a lien might impact the producer's normal course of business. First priority will be to take a lien on any real estate, if available. FSA is not requiring a lien be taken on the real estate on which the project is being completed, but will accept a lien on any real estate that is adequate to fulfill security requirements specified in §§ 764.103-764.106. In cases where no real estate security is available, chattels may be used to secure direct CLs, provided that the chattels are determined adequate and acceptable to FSA. To assure that such loans are adequately secured until paid, loans secured by chattel property may not exceed a 7 year term.</P>
+        <P>There is no graduation requirement for CL in the direct loan servicing because the 2008 Farm Bill exempts the CL Program from the test for credit requirement and graduation requirements. Graduation, as defined in 7 CFR 761.2, means payment in full of all direct FLP loans made for operating, real estate, or both purposes by refinancing with other credit sources either with or without a FSA guarantee. Therefore, FSA is amending §§ 765.101, 765.205, 765.206, 765.207, 765.253, and 765.351 to provide that CLs are not subject to graduation requirements.</P>
+        <P>FSA is amending § 766.107 to add CL to the list of FSA loans that can be rescheduled and to provide that the maximum term for servicing actions will be 20 years from the date of the original date instrument because the maximum term of any CL is 20 years.</P>
+        <P>FSA is amending § 766.108 to add CL to the list of FSA loans that can be reamortized and to provide that the maximum term for servicing actions will be 20 years from the date of the original debt instrument because the maximum term of any CL is 20 years.</P>
+        <HD SOURCE="HD1">Notice and Comment</HD>
+
+        <P>In general, the Administrative Procedures Act (APA, 5 U.S.C. 553) requires that a notice of proposed rulemaking be published in the<E T="04">Federal Register</E>and interested persons be given an opportunity to participate in the rulemaking through submission of written data, views, or arguments with or without opportunity for oral presentation. Such notice is not required when the agency for good cause finds that notice and public procedure thereon are impracticable, unnecessary, or contrary to the public interest.</P>
+        <P>Conservation of natural resources, including soil, air and water, is a high priority for this Administration. There is strong interest and participation from farmers in programs that support and encourage conservation practices. Conservation activities help to maintain or restore the productive capacity of working agricultural lands, preserve or restore habitat for threatened and endangered species, preserve or restore habitat for game birds and sports fish, increase the availability and accessibility of outdoor recreational activities, increase carbon sequestration reducing the impacts of global warming, and reduce the agricultural run-off that threatens the health of the Nation's lakes, bays, and waterways; including the Chesapeake Bay, Mississippi Gulf, and Great Lakes. New conservation initiatives, including Presidential initiatives such as “A 21st Century Strategy for America's Great Outdoors,” are being developed, placing greater emphasis on conservation measures; and highlighting that such measures are clearly in the public interest.</P>
+        <P>Many farmers who need and want to implement conservation measures on their land, do not have the “up front” funds available to implement these practices. This is particularly true for farmers in the livestock sector who are experiencing low profitability, but may have the most critical need to implement conservation practices due to increasing pressure to minimize or eliminate: (1) Surface water quality deterioration from spills and manure runoff; (2) surface water quantity being depleted by larger operations; and (3) odor nuisance from large barns and manure storage.</P>
+        <P>Many USDA conservation programs, such as the Environmental Quality Incentives Program (EQIP) and the Conservation Reserve Enhancement Program (CREP), provide only cost-share assistance, which is generally 50 to 90 percent of the cost to implement the conservation practice. Farmers and ranchers are required to complete the practice and provide receipts prior to receiving the cost-share reimbursement. While these conservation projects are environmentally valuable, they may contribute very little to the economic productivity of the farming operation providing little incentive for private sector institutions to provide financing. This often means that implementation of environmentally vital conservation measures must be postponed because “up front” capital is not available to the farmer.</P>
+
+        <P>Accordingly, FSA finds that good cause exists to publish this rule as an interim rule, effective immediately.<PRTPAGE P="54010"/>Advance solicitation of comments for this rulemaking would be impractical and contrary to the public interest, as it would delay implementation of conservation projects that are critical to accomplishment of the Administration and Congress' shared conservation objectives. By issuing these regulations as an interim rule, FSA still requests comments and will consider them in the development of the final rule.</P>
+        <HD SOURCE="HD1">Executive Order 12866</HD>
+        <P>This Office of Management and Budget (OMB) designated this rule as significant under Executive Order 12866, and, therefore, OMB reviewed this rule. A cost benefit assessment of this rule is summarized below and is available from the contact listed above.</P>
+        <HD SOURCE="HD1">Summary of Economic Impacts</HD>
+        <P>The CL Program provides eligibility and servicing options to participants in certain conservation activities through FSA direct and guaranteed loan programs. More specifically, a direct or guaranteed FSA loan can be used to help fund any approved NRCS conservation plan, even if the project involves a non-eligible enterprise as defined by 7 CFR 761.2. This approach encourages the adoption of conservation practices that provide the maximum benefit to society, as discussed below. Because it is voluntary, the program will not impose any unnecessary burden on producers.</P>
+        <P>The CL Program is expected to generate $14.5 million in annual direct loan obligations and $11.9 million in annual guaranteed obligations, much of which will be used to fund the producer's share of NRCS cost-share projects. Lower interest rates and easier loan terms will result in greater demand for NRCS cost-share projects. With greater demand, it is expected that NRCS will be able to allocate limited funds among projects that would have greater environmental benefits to society. If the CL Program results in a 5 percent increase in benefits, total annual benefits to society would increase by $1.41 million.</P>
+        <P>Demand for CL funds is not expected to be limited to just NRCS cost-share projects. For example, a producer may use the CL Program without cost-share in circumstances where delays in implementation of conservation practices would risk loss of USDA benefits or constrain farm production. The CL Program is expected to encourage the implementation of conservation practices beyond what can be funded using available NRCS cost-share funds.</P>
+        <HD SOURCE="HD1">Environmental Review</HD>
+        <P>The requirements found in 7 CFR part 1940, subpart G, must be met for the CL program consistent with the existing direct and guaranteed loan regulations.</P>
+        <HD SOURCE="HD1">Executive Order 12372</HD>
+
+        <P>This program is not subject to Executive Order 12372, which requires consultation with State and local officials. See the notice related to 7 CFR part 3015, subpart V, published in the<E T="04">Federal Register</E>on June 24, 1983 (48 FR 29115).</P>
+        <HD SOURCE="HD1">Executive Order 12988</HD>
+        <P>This rule has been reviewed in accordance with Executive Order 12988, Civil Justice Reform. This rule preempts State and local laws and regulations that are in conflict with this rule. Before any judicial action may be brought concerning the provisions of this rule, the administrative appeal provisions of 7 CFR parts 11 and 780 must be exhausted.</P>
+        <HD SOURCE="HD1">Executive Order 13132</HD>
+        <P>The policies in this rule would not have any substantial direct effect on States, the relationship between the Federal Government and the States, or the distribution of power and responsibilities among the various levels of government. Nor would this rule impose substantial direct compliance costs on State and local governments. Therefore, consultation with the States is not required.</P>
+        <HD SOURCE="HD1">Executive Order 13175</HD>
+        <P>The policies contained in this rule would not have tribal implications that preempt tribal law.</P>
+        <P>USDA will undertake, within 6 months after this rule becomes effective, a series of regulation Tribal consultation sessions to gain input by Tribal officials concerning the impact of this rule on Tribal governments, communities, and individuals. These sessions will establish a baseline of consultation for future actions, should any become necessary, regarding this rule. Reports from these sessions for consultation will be made part of the USDA annual reporting on Tribal Consultation and Collaboration. USDA will respond in a timely and meaningful manner to all Tribal government requests for consultation concerning this rule and will provide additional venues, such as webinars and teleconferences, to periodically host collaborative conversations with Tribal leaders and their representatives concerning ways to improve this rule in Indian country.</P>
+        <HD SOURCE="HD1">Unfunded Mandates</HD>
+        <P>This rule contains no Federal mandates under the regulatory provisions of Title II of the Unfunded Mandate Reform Act of 1995 (UMRA, Pub. L. 104-4) for State, local, or tribal governments, or the private sector. Therefore, this rule is not subject to the requirements of sections 202 and 205 of UMRA.</P>
+        <HD SOURCE="HD1">Federal Assistance Programs</HD>
+        <P>The title and number of the Federal assistance programs in the Catalog of Federal Domestic Assistance to which this rule would apply are:</P>
+        
+        <FP SOURCE="FP-1">10.099—Conservation Loans.</FP>
+        <FP SOURCE="FP-1">10.404—Emergency Loans.</FP>
+        <FP SOURCE="FP-1">10.406—Farm Operating Loans.</FP>
+        <FP SOURCE="FP-1">10.407—Farm Ownership Loans.</FP>
+        <HD SOURCE="HD1">Paperwork Reduction Act</HD>
+        <P>In accordance with the Paperwork Reduction Act of 1995 as specified in 44 U.S.C. 3507(j), all the following information collection requests have been submitted for emergency approval to the Office of Management and Budget (OMB). FSA obtained a 6-month OMB approval in order to require persons to complete the information collection activities for the CL Program.</P>
+        <P>FSA still plans to obtain the 3-year approval to continue the information collection so FSA is requesting comments from interested individuals and organizations on the CL Program information collection activities and changes in the information collection activities related to the regulatory changes in this rule. In all of these new information collection requests, FSA is inserting the CL provisions into the existing regulations to provide loans to the borrowers who are eligible to cover the costs of carrying out the qualified conservation project.</P>
+        <P>The approved information collection request will be incorporated into the existing approved information collection requests (of the same titles) that will be up for a renewal this year. Due to the differences in expected applications for direct loans versus guaranteed loans, and the differences in the number of individuals required to submit the information (applicant versus both lender and applicant), even though the information collections are to implement the CL Program, the number of respondents varies for each of the information collection requests described below.</P>
+        <P>
+          <E T="03">Title:</E>Farm Loan Programs; General Program Administration.</P>
+        <P>
+          <E T="03">OMB Control Number:</E>0560-New.</P>
+        <P>
+          <E T="03">Type of Request:</E>New Collection.</P>
+        <P>
+          <E T="03">Abstract:</E>This information collection, is required to support the regulation<PRTPAGE P="54011"/>changes in CFR 761, “Farm Loan Programs; General Program Administration,” that includes the new CL Program in both making and servicing all FLP loans and guarantees. Information collections established by the regulation are necessary to ensure that program applicants and participants meet statutory eligibility requirements, loan funds are used for authorized purposes, and the Government's interest in security is adequately protected. Specific information collection requirements include financial information in the form of a balance sheet and cash flow projections used in loan making and servicing decisions; information needed to establish joint bank accounts in which loan funds, proceeds derived from the sale of loan security or insurance proceeds may be deposited; collateral pledges from financial institutions when the balance of a supervised bank account will exceed $100,000; and documentation that construction plans and specifications comply with State and local building standards.</P>
+        <P>
+          <E T="03">Estimate of Burden:</E>Public reporting for this collection of information is estimated to average 75 minutes per response.</P>
+        <P>
+          <E T="03">Respondents:</E>Individuals or households, businesses or other for profit and farms.</P>
+        <P>
+          <E T="03">Estimated Number of Respondents:</E>3,038.</P>
+        <P>
+          <E T="03">Estimated Average Number of Responses per Respondent:</E>2.</P>
+        <P>
+          <E T="03">Estimated Total Annual Number of Responses:</E>3,038.</P>
+        <P>
+          <E T="03">Estimated Total Annual Burden on Respondents:</E>3,767 hours.</P>
+        <P>Once this information collection is approved, it will be incorporated into existing collection package 0560-0238.</P>
+        <P>
+          <E T="03">Title:</E>Guaranteed Farm Loans.</P>
+        <P>
+          <E T="03">OMB Control Number:</E>0560-New.</P>
+        <P>
+          <E T="03">Type of Request:</E>New Collection.</P>
+        <P>
+          <E T="03">Abstract:</E>This information collection is required to support the regulation changes in 7 CFR part 762, “Guaranteed Farm Loans,” which establishes the requirement for loan making and loan servicing of FSA's new CL Program guaranteed loans. Information collections established in the regulation are necessary for FSA to evaluate the lender's request for guarantee including eligibility, loan repayment, if security requirements can be met, monitor and account for security, liquidation, and lender's loss claims.</P>
+        <P>
+          <E T="03">Estimate of Burden:</E>Public reporting for this collection of information is estimated to average 48 minutes per response.</P>
+        <P>
+          <E T="03">Type of Respondents:</E>Individuals or households, businesses or other for profit and farms.</P>
+        <P>
+          <E T="03">Estimated Number of Respondents:</E>5,063.</P>
+        <P>
+          <E T="03">Estimated Average Number of Responses per Respondent:</E>1.3.</P>
+        <P>
+          <E T="03">Estimated Total Annual Number of Responses:</E>5,756.</P>
+        <P>
+          <E T="03">Estimated Total Annual Burden on Respondents:</E>5,357 hours.</P>
+        <P>Once this information collection is approved, it will be incorporated into existing collection package 0560-0155.</P>
+        <P>
+          <E T="03">Title:</E>Direct Loan Making.</P>
+        <P>
+          <E T="03">OMB Control Number:</E>0560-New.</P>
+        <P>
+          <E T="03">Type of Request:</E>New Collection.</P>
+        <P>
+          <E T="03">Abstract:</E>This information collection is required to support the regulation changes in 7 CFR part 764, “Direct Loan Making,” which establishes the requirements for most of FSA's direct loan programs including the new CL Program. Information collections established in the regulation are necessary for FSA to evaluate the loan applicant's request and determine if eligibility, loan repayment, and security requirements can be met.</P>
+        <P>
+          <E T="03">Estimate of Burden:</E>Public reporting for this collection of information is estimated to average 26 minutes per response.</P>
+        <P>
+          <E T="03">Type of Respondents:</E>Individuals or households, businesses or other for profit and farms.</P>
+        <P>
+          <E T="03">Estimated Number of Respondents:</E>23,821.</P>
+        <P>
+          <E T="03">Estimated Average Number of Responses per Respondent:</E>1.05.</P>
+        <P>
+          <E T="03">Estimated Total Annual Number of Responses:</E>29,992 hours.</P>
+        <P>
+          <E T="03">Estimated Total Annual Burden on Respondents:</E>15,309 hours.</P>
+        <P>Once this information collection is approved, it will be incorporated into existing collection package 0560-0237.</P>
+        <P>
+          <E T="03">Title:</E>Direct Loan Servicing—Regular.</P>
+        <P>
+          <E T="03">OMB Control Number:</E>0560-New.</P>
+        <P>
+          <E T="03">Type of Request:</E>New Collection.</P>
+        <P>
+          <E T="03">Abstract:</E>This information collection is required to support the regulation changes in 7 CFR part 765, “Direct Loan Servicing—Regular,” which establishes the requirements related to routine servicing actions associated with direct loans including the new CL Program. Information collections established in the regulation are necessary for FSA to monitor and account for loan security, including proceeds derived from the sale of security, and to process a borrower's requests for subordination or partial release of security.</P>
+        <P>
+          <E T="03">Estimate of Burden:</E>Public reporting for this collection of information is estimated to average 29 minutes per response.</P>
+        <P>
+          <E T="03">Type of Respondents:</E>Individuals or households, businesses or other for profit and farms.</P>
+        <P>
+          <E T="03">Estimated Number of Respondents:</E>1,817.</P>
+        <P>
+          <E T="03">Estimated Average Number of Responses per Respondent:</E>1.48.</P>
+        <P>
+          <E T="03">Estimated Total Annual Number of Responses:</E>1669.</P>
+        <P>
+          <E T="03">Estimated Total Annual Burden on Respondents:</E>594 hours.</P>
+        <P>Once this information collection is approved, it will be incorporated into existing collection package 0560-0236.</P>
+        <P>
+          <E T="03">Title:</E>Direct Loan Servicing—Special.</P>
+        <P>
+          <E T="03">OMB Control Number:</E>0560-New.</P>
+        <P>
+          <E T="03">Type of Request:</E>New Collection.</P>
+        <P>
+          <E T="03">Abstract:</E>This information collection is required to support the regulation changes in 7 CFR part 766, “Direct Loan Servicing—Special,” which establishes the requirements for servicing financially distressed and delinquent direct loan borrowers. The information collections established in the regulation are necessary for FSA to evaluate a borrower's request for disaster set-aside, primary loan servicing (including reamortization, rescheduling, deferral, write down, and conservation contracts), and homestead protection.</P>
+        <P>
+          <E T="03">Estimate of Burden:</E>Public reporting for this collection of information is estimated to average 31 minutes per response.</P>
+        <P>
+          <E T="03">Type of Respondents:</E>Individuals or households, businesses or other for profit and farms.</P>
+        <P>
+          <E T="03">Estimated Number of Respondents:</E>576.</P>
+        <P>
+          <E T="03">Estimated Average Number of Responses per Respondent:</E>1.</P>
+        <P>
+          <E T="03">Estimated Total Annual Number of Responses:</E>576.</P>
+        <P>
+          <E T="03">Estimated Total Annual Burden on Respondents:</E>216 hours.</P>
+        <P>Once this information collection is approved, it will be incorporated into existing collections package 0560-0233.</P>
+        <P>We are requesting comments on all aspects of this information collection to help us to:</P>
+        <P>(1) Evaluate whether the collection of information is necessary for the proper performance of FSA's functions, including whether the information will have practical utility;</P>
+        <P>(2) Evaluate the accuracy of FSA's estimate of burden including the validity of the methodology and assumptions used;</P>
+        <P>(3) Enhance the quality, utility and clarity of the information to be collected; and</P>
+
+        <P>(4) Minimize the burden of the collection of information on those who are to respond, including through the use of appropriate automated, electronic, mechanical, or other<PRTPAGE P="54012"/>technological collection techniques or other forms of information technology.</P>
+        <P>All comments received in response to this notice, including names and addresses when provided, will be a matter of public record. Comments will be summarized and included in the submission for Office of Management and Budget approval.</P>
+        <HD SOURCE="HD1">E-Government Act Compliance</HD>
+        <P>FSA is committed to complying with the E-Government Act, to promote the use of the Internet and other information technologies to provide increased opportunities for citizen access to Government information and services, and for other purposes.</P>
+        <LSTSUB>
+          <HD SOURCE="HED">List of Subjects</HD>
+          <CFR>7 CFR Part 761</CFR>
+          <P>Accounting, Loan programs agriculture, Rural areas.</P>
+          <CFR>7 CFR Part 762</CFR>
+          <P>Agriculture, Banks, banking, Credit, Loan programs—agriculture.</P>
+          <CFR>7 CFR Part 764</CFR>
+          <P>Agriculture, Disaster assistance, Loan programs—agriculture.</P>
+          <CFR>7 CFR Part 765</CFR>
+          <P>Agriculture, Agricultural commodities, Credit, Livestock, Loan programs—agriculture.</P>
+          <CFR>7 CFR Part 766</CFR>
+          <P>Agriculture, Agricultural commodities, Credit, Livestock, Loan programs—agriculture.</P>
+        </LSTSUB>
+        <REGTEXT PART="761" TITLE="7">
+          <AMDPAR>For reasons discussed above, this rule amends 7 CFR chapter VII as follows:</AMDPAR>
+          <PART>
+            <HD SOURCE="HED">PART 761—FARM LOAN PROGRAMS; GENERAL PROGRAM ADMINISTRATION</HD>
+          </PART>
+          <AMDPAR>1. The authority citation for part 761 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>5 U.S.C. 301 and 7 U.S.C. 1989.</P>
+          </AUTH>
+        </REGTEXT>
+        
+        <REGTEXT PART="761" TITLE="7">
+          <AMDPAR>2. Amend § 761.2 as follows:</AMDPAR>
+          <AMDPAR>a. In paragraph (a), add abbreviations, in alphabetical order, for “CL” and “NRCS” to read as set forth below;</AMDPAR>
+          <AMDPAR>b. In paragraph (b), amend paragraph (1) of the definition of “beginning farmer” by removing the words “OL or FO loan” and adding, in their place, the words “CL, FO, or OL”;</AMDPAR>
+          <AMDPAR>c. In paragraph (b), add definitions, in alphabetical order, for “conservation loan”, “conservation plan”, “conservation practice”, “conservation project”, and “streamlined conservation loan” and revise the definition of “graduation” to read as set forth below; and</AMDPAR>
+          <AMDPAR>d. In paragraph (b), amend the definition of “program loans” by adding the acronym and punctuation “CL,” immediately before the acronym “FO”.</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 761.2</SECTNO>
+            <SUBJECT>Abbreviations and definitions.</SUBJECT>
+            <STARS/>
+            <P>(a) * * *</P>
+            <P>
+              <E T="03">CL</E>Conservation Loan.</P>
+            <STARS/>
+            <P>
+              <E T="03">NRCS</E>National Resources and Conservation Service, USDA.</P>
+            <STARS/>
+            <P>(b) * * *</P>
+            <STARS/>
+            <P>
+              <E T="03">Conservation loan</E>means a loan made to eligible applicants to cover the costs to the applicant of carrying out a qualified conservation project.</P>
+            <P>
+              <E T="03">Conservation plan</E>means an NRCS-approved written record of the land user's decisions and supporting information, for treatment of a land unit or water as a result of the planning process, that meets NRCS Field Office Technical Guide (FOTG) quality criteria for each natural resource (soil, water, air, plants, and animals) and takes into account economic and social considerations. The conservation plan describes the schedule of operations and activities needed to solve identified natural resource problems and takes advantage of opportunities at a conservation management system level. This definition only applies to the direct loans and guaranteed loans for the Conservation Loan Program.</P>
+            <P>
+              <E T="03">Conservation practice</E>means a specific treatment that is planned and applied according to NRCS standards and specifications as a part of a resource management system for land, water, and related resources.</P>
+            <P>
+              <E T="03">Conservation project</E>means conservation measures that address provisions of a conservation plan.</P>
+            <STARS/>
+            <P>
+              <E T="03">Graduation</E>means the payment in full of all direct FLP loans, except for CLs, made for operating, real estate, or both purposes by refinancing with other credit sources either with or without an Agency guarantee.</P>
+            <STARS/>
+            <P>
+              <E T="03">Streamlined Conservation Loan</E>means a direct or guaranteed CL made to eligible applicants based on reduced documentation.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="761" TITLE="7">
+          <AMDPAR>3. Revise § 761.8 paragraphs (a)(1) introductory text, (a)(1)(iii), (a)(3), (a)(4), and (a)(6) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 761.8</SECTNO>
+            <SUBJECT>Loan limitations.</SUBJECT>
+            <P>(a) * * *</P>
+            <P>(1) Farm Ownership, Downpayment loans, Conservation loans, and Soil and Water loans:</P>
+            <STARS/>
+            <P>(iii) Any combination of a direct Farm Ownership loan, direct Conservation loan, direct Soil and Water loan, guaranteed Farm Ownership loan, guaranteed Conservation loan, and guaranteed Soil and Water loan-$700,000 (for fiscal year 2000 and increased each fiscal year in accordance with paragraph (b) of this section);</P>
+            <STARS/>
+            <P>(3) Any combination of guaranteed Farm Ownership loan, guaranteed Conservation loan, guaranteed Soil and Water loan, and guaranteed Operating loan-$700,000 (for fiscal year 2000 and increased each fiscal year in accordance with paragraph (b) of this section);</P>
+            <P>(4) Any combination of direct Farm Ownership loan, direct Conservation loan, direct Soil and Water loan, direct Operating loan, guaranteed Farm Ownership loan, guaranteed Conservation loan, guaranteed Soil and Water loan, and guaranteed Operating loan-the amount in paragraph (a)(1)(ii) of this section plus $300,000;</P>
+            <STARS/>
+            <P>(6) Any combination of direct Farm Ownership loan, direct Conservation loan, direct Soil and Water loan, direct Operating loan, guaranteed Farm Ownership, guaranteed Conservation loan, guaranteed Soil and Water loan, guaranteed Operating loan, and Emergency loan-the amount in paragraph (a)(1)(ii) of this section plus $800,000.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="761" TITLE="7">
+          <AMDPAR>4. Amend § 761.103 as follows:</AMDPAR>
+          <AMDPAR>a. In paragraphs (b)(6), (b)(8), and (b)(9) add the words and punctuation “, except for streamlined CL” immediately before the semicolon in each paragraph;</AMDPAR>
+          <AMDPAR>b. In paragraph (c), second sentence, remove the words and punctuation “, a loan evaluation,”;</AMDPAR>
+          <AMDPAR>c. Revise paragraph (d) to read as set forth below; and</AMDPAR>
+          <AMDPAR>d. Add paragraph (e) to read as set forth below.</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 761.103</SECTNO>
+            <SUBJECT>Farm assessment.</SUBJECT>
+            <STARS/>
+
+            <P>(d) The Agency reviews the assessment to determine a borrower's progress at least annually. The review will be in the form of an office visit, field visit, letter, phone conversation, or year-end analysis, as determined by the Agency. For streamlined CLs, the borrower must provide a current balance sheet and income tax records. Any negative trends noted between the previous years' and the current years'<PRTPAGE P="54013"/>information must be evaluated and addressed in the assessment of the streamlined CL borrower.</P>
+            <P>(e) If a CL borrower becomes financially distressed, delinquent, or receives any servicing options available under part 766 of this chapter, all elements of the assessment in paragraph (b) of this section must be addressed.</P>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="761" TITLE="7">
+          <SECTION>
+            <SECTNO>§ 761.105</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>5. Amend § 761.105 paragraph (a)(1) by adding the words “except for streamlined CLs” immediately after the words “direct loan”.</AMDPAR>
+        </REGTEXT>
+        <REGTEXT PART="761" TITLE="7">
+          <SECTION>
+            <SECTNO>§ 761.201</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>6. Amend § 761.201 paragraph (a)(1) by adding the acronym and punctuation “, CL,” immediately after the acronym “FO”.</AMDPAR>
+        </REGTEXT>
+        <REGTEXT PART="761" TITLE="7">
+          <SECTION>
+            <SECTNO>§ 761.202</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>7. Amend § 761.202, in the first sentence, by adding the acronym and punctuation “, CL,” immediately after the acronym “FO”.</AMDPAR>
+        </REGTEXT>
+        <REGTEXT PART="761" TITLE="7">
+          <SECTION>
+            <SECTNO>§ 761.204</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>8. Amend § 761.204, introductory text, by adding the acronym and punctuation “, CL,” immediately after the acronym “FO”.</AMDPAR>
+        </REGTEXT>
+        <REGTEXT PART="761" TITLE="7">
+          <SECTION>
+            <SECTNO>§ 761.205</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>9. Amend § 761.205 as follows:</AMDPAR>
+          <AMDPAR>a. In paragraph (a) introductory text by adding the acronym and punctuation “, CL,” immediately after the acronym “FO”; and;</AMDPAR>
+          <AMDPAR>b. In paragraph (b)(1) in the table by removing the words “FO and” each time it appears and adding, in its place, the words “FO, CL, and” and by removing the words “FO loans” each time they appear and adding in their place the words “FOs and CLs”.</AMDPAR>
+        </REGTEXT>
+        <REGTEXT PART="761" TITLE="7">
+          <SECTION>
+            <SECTNO>§ 761.206</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>10. Amend § 761.206, first sentence, by adding the acronym and punctuation “, CL,” immediately after the acronym “FO”.</AMDPAR>
+        </REGTEXT>
+        <REGTEXT PART="761" TITLE="7">
+          <SECTION>
+            <SECTNO>§ 761.208</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>11. Amend § 761.208 as follows:</AMDPAR>
+          <AMDPAR>a. In paragraph (a)(1) by adding the acronym and punctuation “, CL,” immediately after the acronym “FO” and</AMDPAR>
+          <AMDPAR>b. In paragraph (b) introductory text by adding the words and punctuation “and CL,” immediately after the acronym “FO” each time it appears.</AMDPAR>
+        </REGTEXT>
+        <REGTEXT PART="761" TITLE="7">
+          <SECTION>
+            <SECTNO>§ 761.210</SECTNO>
+            <SUBJECT>[Redesignated as § 761.211]</SUBJECT>
+          </SECTION>
+          <AMDPAR>12. Redesignate § 761.210 as § 761.211.</AMDPAR>
+        </REGTEXT>
+        <REGTEXT PART="761" TITLE="7">
+          <AMDPAR>13. Add § 761.210 to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 761.210</SECTNO>
+            <SUBJECT>CL funds.</SUBJECT>
+            <P>(a) The following applicants and conservation projects will receive priority for CL funding:</P>
+            <P>(1) Beginning farmer or socially disadvantaged farmer,</P>
+            <P>(2) An applicant who will use the loan funds to convert to a sustainable or organic agriculture production system as evidenced by one of the following:</P>
+            <P>(i) A conservation plan that states the applicant is moving toward a sustainable or organic production system, or</P>
+            <P>(ii) An organic plan, approved by a certified agent and the State organic certification program, or</P>
+            <P>(iii) A grant awarded by the Sustainable Agriculture Research and Education (SARE) program of the National Institute of Food and Agriculture, USDA.</P>
+            <P>(3) An applicant who will use the loan funds to build conservation structures or establish conservation practices to comply with 16 U.S.C. 3812 (section 1212 of the Food Security Act of 1985) for highly erodible land.</P>
+            <P>(b) [Reserved]</P>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="762" TITLE="7">
+          <PART>
+            <HD SOURCE="HED">PART 762—GUARANTEED FARM LOANS</HD>
+          </PART>
+          <AMDPAR>14. The authority citation for part 762 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>5 U.S.C. 301 and 7 U.S.C. 1989.</P>
+          </AUTH>
+          
+        </REGTEXT>
+        <REGTEXT PART="762" TITLE="7">
+          <AMDPAR>15. In § 762.101, revise the first sentence in paragraph (a) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 762.101</SECTNO>
+            <SUBJECT>Introduction.</SUBJECT>
+            <P>(a) * * * This subpart contains regulations governing Operating loans, Farm Ownership loans, and Conservation loans guaranteed by the Agency. * * *</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="762" TITLE="7">
+          <SECTION>
+            <SECTNO>§ 762.106</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>16. Amend § 762.106 as follows:</AMDPAR>
+          <AMDPAR>a. In paragraph (b)(4) by removing the words “or Soil and Water (SW)” and by adding, in its place the words “CL, or SW”;</AMDPAR>
+          <AMDPAR>b. In paragraph (c)(3) by adding the acronym and punctuation “CL,” immediately after the acronym “FO,”; and</AMDPAR>
+          <AMDPAR>c. In paragraph (g)(2)(ix) by adding at the end the reference “and (c)(8)”.</AMDPAR>
+        </REGTEXT>
+        <REGTEXT PART="762" TITLE="7">
+          <AMDPAR>17. Amend § 762.110 as follows:</AMDPAR>
+          <AMDPAR>a. Revise paragraphs (a)(1)(iv) and (a)(1)(vi), and add paragraphs (a)(1)(vii) and (a)(1)(viii), to read as set forth below;</AMDPAR>
+          <AMDPAR>b. Revise paragraph (b) introductory text to read as set forth below;</AMDPAR>
+          <AMDPAR>c. Revise paragraph (c)(2), redesignate paragraph (c)(3) as paragraph (c)(5), and add paragraphs (c)(3) and (c)(4) to read as set forth below;</AMDPAR>
+          <AMDPAR>d. Redesignate paragraphs (d) through (g) as (e) through (h);</AMDPAR>
+          <AMDPAR>e. Add paragraph (d) to read as set forth below; and</AMDPAR>
+          <AMDPAR>f. In newly redesignated paragraph (h), first sentence, remove the word “When” and add, in its place, the words “Except for CL guarantees, when”.</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 762.110</SECTNO>
+            <SUBJECT>Loan application.</SUBJECT>
+            <P>(a)  * * *</P>
+            <P>(1)  * * *</P>
+            <P>(iv) Cash flow budget, unless waived when conditions in paragraph (d) of this section are met;</P>
+            <STARS/>
+            <P>(vi) A plan for servicing the loan;</P>
+            <P>(vii) For CL guarantees, a copy of the conservation plan;</P>
+            <P>(viii) To request consideration for priority funding for CL guarantees, plans to transition to organic or sustainable agriculture when the funds requested will be used to facilitate the transition.</P>
+            <STARS/>
+            <P>(b)<E T="03">Loans over $125,000.</E>A complete application for loans over $125,000 will require items specified in paragraph (a) of this section, plus the following items unless waived when conditions in paragraph (d) of this section are met:</P>
+            <STARS/>
+            <P>(c)  * * *</P>
+            <P>(2) A loan narrative;</P>
+            <P>(3) For CL guarantees, a copy of the conservation plan;</P>
+            <P>(4) To request consideration for priority funding for CL guarantees, plans to transition to organic or sustainable agriculture when the funds requested will be used to facilitate the transition.</P>
+            <STARS/>
+            <P>(d)<E T="03">Streamlined CL guarantee.</E>For CL guarantee applicants meeting all the following criteria, the cash flow budget requirement in this section will be waived:</P>
+            <P>(1) Be current on all payments to all creditors including the Agency (if currently an Agency borrower),</P>
+            <P>(2) Debt to asset ratio is 40 percent or less,</P>
+            <P>(3) Balance sheet indicates a net worth of 3 times the requested loan amount or greater, and</P>
+            <P>(4) FICO credit score is at least 700. For entity applicants, the FICO credit score of the majority of the individual members of the entity must be at least 700.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="762" TITLE="7">
+          <AMDPAR>18. Amend § 762.120 as follows:</AMDPAR>
+
+          <AMDPAR>a. Revise the introductory text to read as set forth below,<PRTPAGE P="54014"/>
+          </AMDPAR>
+          <AMDPAR>b. Add introductory text to paragraph (h) to read as set forth below,</AMDPAR>
+          <AMDPAR>c. Amend paragraph (k) introductory text by removing the word “Entity” and adding, in its place, the words “Except for CL, entity”.</AMDPAR>
+          <AMDPAR>d. Redesignate paragraph (l) as paragraph (n), and</AMDPAR>
+          <AMDPAR>e. Add paragraphs (l) and (m) to read as set forth below:</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 762.120</SECTNO>
+            <SUBJECT>Applicant eligibility.</SUBJECT>
+            <P>Unless otherwise provided, applicants must meet all of the following requirements to be eligible for a guaranteed OL, FO, or CL.</P>
+            <STARS/>
+            <P>(h)<E T="03">Test for credit.</E>Except for CL guarantees,</P>
+            <STARS/>
+            <P>(l)<E T="03">For CL entity applicants.</E>Entity applicants for CL guarantees must meet the following eligibility criteria:</P>
+            <P>(1) The majority interest holders of the entity must meet the requirements of paragraph (d), (f), and (g) of this section;</P>
+            <P>(2) The entity must be controlled by farmers engaged primarily and directly in farming or ranching in the United States after the loan is made;</P>
+            <P>(3) The entity members are not themselves entities; and</P>
+            <P>(4) The entity must be authorized to operate a farm in the State or States in which the farm is located.</P>
+            <P>(m)<E T="03">For CL individual applicants.</E>Individual applicants for CL guarantees must be farmers or ranchers in the United States.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="762" TITLE="7">
+          <AMDPAR>19. Amend § 762.121 by redesignating paragraphs (c) and (d) as paragraphs (d) and (e) and adding paragraph (c) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 762.121</SECTNO>
+            <SUBJECT>Loan purposes.</SUBJECT>
+            <STARS/>
+            <P>(c)<E T="03">CL Purposes.</E>Loan funds disbursed under a CL guarantee may be used for any conservation activities included in a conservation plan including, but not limited to:</P>
+            <P>(1) The installation of conservation structures to address soil, water, and related resources;</P>
+            <P>(2) The establishment of forest cover for sustained yield timber management, erosion control, or shelter belt purposes;</P>
+            <P>(3) The installation of water conservation measures;</P>
+            <P>(4) The installation of waste management systems;</P>
+            <P>(5) The establishment or improvement of permanent pasture;</P>
+            <P>(6) Other purposes including the adoption of any other emerging or existing conservation practices, techniques, or technologies; and</P>
+            <P>(7) Refinancing indebtedness incurred for any authorized CL purpose, when refinancing will result in additional conservation benefits.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="762" TITLE="7">
+          <SECTION>
+            <SECTNO>§ 762.122</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>20. Amend § 762.122(c) by removing the acronym “FO” and by adding, in its place, the words “FO or CL”.</AMDPAR>
+          <AMDPAR>21. Amend § 762.124 as follows:</AMDPAR>
+          <AMDPAR>a. Redesignate paragraphs (d) and (e) as paragraphs (e) and (f),</AMDPAR>
+          <AMDPAR>b. Add paragraph (d) to read as set forth below, and</AMDPAR>
+          <AMDPAR>c. In newly redesignated paragraph (e) introductory text, remove the words “FO or OL” and add, in its place, the words “FO, OL, or CL”.</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 762.124</SECTNO>
+            <SUBJECT>Interest rates, terms, charges, and fees.</SUBJECT>
+            <STARS/>
+            <P>(d)<E T="03">CL terms.</E>Each loan must be scheduled for repayment over a period not to exceed 20 years from the date of the note or such shorter period as may be necessary to assure that the loan will be adequately secured, taking into account the probable depreciation of the security.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="762" TITLE="7">
+          <AMDPAR>22. Amend § 762.125 as follows:</AMDPAR>
+          <AMDPAR>a. In paragraph (a), immediately following the heading, add introductory text to read as set forth below;</AMDPAR>
+          <AMDPAR>b. In paragraph (a)(2), remove the reference and words “as defined in § 762.102(b)”;</AMDPAR>
+          <AMDPAR>c. In paragraph (a)(9), second sentence, remove the word “Guaranteed” and add in its place, the words “Except for CL, guaranteed”; and</AMDPAR>
+          <AMDPAR>d. In paragraph (b) add introductory text to read as set forth below.</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 762.125</SECTNO>
+            <SUBJECT>Financial feasibility.</SUBJECT>
+            <P>(a)  * * *  Except for streamlined CL guarantees, the following requirements must be met and applications processed as specified in § 762.110(d):</P>
+            <STARS/>
+            <P>(b)  * * *  Except for streamlined CL guarantees, the following requirements must be met and applications processed as specified in § 762.110(d):</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="762" TITLE="7">
+          <SECTION>
+            <SECTNO>§ 762.128</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>23. Amend § 762.128, paragraph (a), first sentence, by removing the words “OL and FO” and adding in its place the words “OL, FO, and CL”.</AMDPAR>
+        </REGTEXT>
+        
+        <REGTEXT PART="762" TITLE="7">
+          <AMDPAR>24. Amend § 762.129 as follows:</AMDPAR>
+          <AMDPAR>a. In paragraph (a) first sentence by removing the word “The” and adding, in its place, the words “Except for CLs, the” and add a new sentence at the end as set forth below; and</AMDPAR>
+          <AMDPAR>b. In paragraph (c) by removing the word “All” and adding, in its place, the words “Except for CLs, all”.</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 762.129</SECTNO>
+            <SUBJECT>Percent of guarantee and maximum loss.</SUBJECT>
+            <P>(a)  * * *  For CLs, the percent of guarantee will be 75 percent.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="762" TITLE="7">
+          <AMDPAR>25. Revise § 762.130 by revising paragraph (a)(2)(ii) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 762.130</SECTNO>
+            <SUBJECT>Loan approval and issuing the guarantee.</SUBJECT>
+            <P>(a)  * * *</P>
+            <P>(2)  * * *</P>
+            <P>(ii) For PLP lenders, if the 14 day time frame is not met, the proposed guaranteed loan will automatically be approved, subject to funding, and receive an 80 or 95 percent guarantee for FO or OL loans, and 75 percent guarantee for CL, as appropriate.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="762" TITLE="7">
+          <AMDPAR>26. Amend § 762.145 as follows:</AMDPAR>
+          <AMDPAR>a. In paragraph (b)(2)(i) remove the reference and words “as defined in § 762.102(b)”;</AMDPAR>
+          <AMDPAR>b. Add paragraphs (b)(10) and (c)(1)(iii) to read as set forth below; and</AMDPAR>
+          <AMDPAR>c. Revise paragraph (e)(5) to read as set forth below.</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 762.145</SECTNO>
+            <SUBJECT>Restructuring guaranteed loans.</SUBJECT>
+            <STARS/>
+            <P>(b)  * * *</P>
+            <P>(10) For CL, the lender must certify that the borrower remains in compliance with the approved conservation plan.</P>
+            <P>(c)  * * *</P>
+            <P>(1)  * * *</P>
+            <P>(iii) CL will be amortized over the remaining term or rescheduled with an uneven payment schedule. The maturity date cannot exceed 20 years from the date of the original note.</P>
+            <STARS/>
+            <P>(e)  * * *</P>
+            <P>(5) The loan will be restructured with regular payments at terms no shorter than 5 years for a line of credit and OL term note; and no shorter than 20 years for FO and CL, unless required to be shorter by paragraphs (c)(1)(i) through (iii) of this section.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="762" TITLE="7">
+          <SECTION>
+            <SECTNO>§ 762.147</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>27. Amend § 762.147, paragraph (b)(1)(i)(A), last sentence, by removing the reference “§ 762.141(b)” and by adding, in its place, the reference “§ 762.142(b)”.</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 762.148</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+
+          <AMDPAR>28. Amend § 762.148, paragraph (d)(3), last sentence, by removing the<PRTPAGE P="54015"/>reference “§ 762.149(a)(vi)” and by adding, in its place, the reference “§ 762.149(i)(4)”.</AMDPAR>
+        </REGTEXT>
+        <REGTEXT PART="764" TITLE="7">
+          <PART>
+            <HD SOURCE="HED">PART 764—DIRECT LOAN MAKING</HD>
+          </PART>
+          <AMDPAR>29. The authority citation for part 764 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>5 U.S.C. 301 and 7 U.S.C. 1989.</P>
+          </AUTH>
+        </REGTEXT>
+        
+        <REGTEXT PART="764" TITLE="7">
+          <AMDPAR>30. Amend § 764.1 by revising paragraphs (b)(2) and (b)(3), and adding paragraph (b)(4) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 764.1</SECTNO>
+            <SUBJECT>Introduction.</SUBJECT>
+            <STARS/>
+            <P>(b)  * * *</P>
+            <P>(2) OL, including Youth loans;</P>
+            <P>(3) EM; and</P>
+            <P>(4) CL.</P>
+          </SECTION>
+        </REGTEXT>
+        
+        <REGTEXT PART="764" TITLE="7">
+          <AMDPAR>31. Amend § 764.51 as follows:</AMDPAR>
+          <AMDPAR>a. In paragraph (b) introductory text, remove the reference “(e) of this section” and adding, in its place, the reference “(f) of this section”;</AMDPAR>
+          <AMDPAR>b. In paragraph (b)(6), remove the word “Documentation” and add, in its place, the words “Except for CL, documentation”;</AMDPAR>
+          <AMDPAR>c. In paragraph (b)(13), at the end, remove the word “and”;</AMDPAR>
+          <AMDPAR>d. Revise paragraph (b)(14) to read as set forth below;</AMDPAR>
+          <AMDPAR>e. Add paragraphs (b)(15) and (b)(16) to read as set forth below;</AMDPAR>
+          <AMDPAR>f. Redesignate paragraphs (d) and (e) as paragraphs (e) and (f); and</AMDPAR>
+          <AMDPAR>g. Add paragraph (d) to read as set forth below.</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 764.51</SECTNO>
+            <SUBJECT>Loan application.</SUBJECT>
+            <STARS/>
+            <P>(b)  * * *</P>
+            <P>(6) Except for CL, documentation that the applicant and each member of an entity applicant cannot obtain sufficient credit elsewhere on reasonable rates and terms, including a loan guarantee to the Agency;</P>
+            <STARS/>
+            <P>(14) For EM loans, a statement of loss or damage on the appropriate Agency form;</P>
+            <P>(15) For CL only, a conservation plan as defined in § 761.2 of this chapter; and</P>
+            <P>(16) For CL only, and if the applicant wishes to request consideration for priority funding, plans to transition to organic or sustainable agriculture when the funds requested will be used to facilitate the transition.</P>
+            <STARS/>
+            <P>(d) For a CL Program streamlined application, the applicant must meet all of the following:</P>
+            <P>(1) Be current on all payments to all creditors including the Agency (if currently an Agency borrower).</P>
+            <P>(2) Have not received primary loan servicing on any FLP debt within the past 5 years.</P>
+            <P>(3) Have a debt to asset ratio that is 40 percent or less.</P>
+            <P>(4) Have a balance sheet that indicates a net worth of 3 times the requested loan amount or greater.</P>
+            <P>(5) Have a FICO credit score from the Agency obtained credit report of at least 700. For entity applicants, the FICO credit score of the majority of the individual members of the entity must be at least 700.</P>
+            <P>(6) Submit the following items:</P>
+            <P>(i) Items specified in paragraphs (b)(1), (b)(2), (b)(3), (b)(7), (b)(11), (b)(15), and (b)(16) of this section,</P>
+            <P>(ii) A current financial statement less than 90 days old, and</P>
+            <P>(iii) Upon Agency request, other information specified in paragraph (b) of this section necessary to make a determination on the loan application.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="764" TITLE="7">
+          <AMDPAR>32. Revise § 764.53 paragraph (d) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 764.53</SECTNO>
+            <SUBJECT>Processing the complete application.</SUBJECT>
+            <STARS/>
+            <P>(d) Except for CL requests, if based on the Agency's review of the application, it appears the applicant's credit needs could be met through the guaranteed loan program, the Agency will assist the applicant in securing guaranteed loan assistance under the market placement program as specified in § 762.110(h) of this chapter.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="764" TITLE="7">
+          <SECTION>
+            <SECTNO>§ 764.101</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>33. Amend § 764.101 as follows:</AMDPAR>
+          <AMDPAR>a. In paragraph (e) introductory text, first sentence, remove the word “The” and add, in its place, the words “Except for CL, the”;</AMDPAR>
+          <AMDPAR>b. In paragraph (j) remove the reference “subpart J” and add, in its place, the reference “subpart K”; and</AMDPAR>
+          <AMDPAR>c. Add as introductory text in paragraph (k) the words and punctuation “Except for CL:”.</AMDPAR>
+        </REGTEXT>
+        <REGTEXT PART="764" TITLE="7">
+          <SECTION>
+            <SECTNO>§ 764.102</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>34. Amend § 764.102 paragraph (a) by removing the reference “H of this part” and adding, in its place, the reference “I of this part”.</AMDPAR>
+        </REGTEXT>
+        <REGTEXT PART="764" TITLE="7">
+          <SECTION>
+            <SECTNO>§ 764.103</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>35. Amend § 764.103 as follows:</AMDPAR>
+          <AMDPAR>a. In paragraphs (a) and (b) introductory text, first sentence, by removing the reference “H of this part” and adding, in its place, the reference “I of this part”; and</AMDPAR>
+          <AMDPAR>b. In paragraph (e), last sentence, by removing the words “loans and youth” and adding, in its place, the words “loans, conservation loans, or youth”.</AMDPAR>
+        </REGTEXT>
+        <REGTEXT PART="764" TITLE="7">
+          <SUBPART>
+            <HD SOURCE="HED">Subparts F Through J [Redesignated]</HD>
+          </SUBPART>
+          <AMDPAR>36. Redesignate subparts F through J as subparts G through K and add new subpart F to read as follows:</AMDPAR>
+          <SUBPART>
+            <HD SOURCE="HED">Subpart F—Conservation Loan Program</HD>
+          </SUBPART>
+          <CONTENTS>
+            <SECHD>Sec.</SECHD>
+            <SECTNO>764.231</SECTNO>
+            <SUBJECT>Conservation loan uses.</SUBJECT>
+            <SECTNO>764.232</SECTNO>
+            <SUBJECT>Eligibility requirements.</SUBJECT>
+            <SECTNO>764.233</SECTNO>
+            <SUBJECT>Limitations.</SUBJECT>
+            <SECTNO>764.234</SECTNO>
+            <SUBJECT>Rates and terms.</SUBJECT>
+            <SECTNO>764.235</SECTNO>
+            <SUBJECT>Security requirements.</SUBJECT>
+            <SECTNO>764.236-764.250</SECTNO>
+            <SUBJECT>[Reserved]</SUBJECT>
+          </CONTENTS>
+          <SECTION>
+            <SECTNO>§ 764.231</SECTNO>
+            <SUBJECT>Conservation loan uses.</SUBJECT>
+            <P>(a) CL funds may be used for any conservation activities included in a conservation plan including, but not limited to:</P>
+            <P>(1) The installation of conservation structures to address soil, water, and related resources;</P>
+            <P>(2) The establishment of forest cover for sustained yield timber management, erosion control, or shelter belt purposes;</P>
+            <P>(3) The installation of water conservation measures;</P>
+            <P>(4) The installation of waste management systems;</P>
+            <P>(5) The establishment or improvement of permanent pasture; and</P>
+            <P>(6) Other purposes including the adoption of any other emerging or existing conservation practices, techniques, or technologies.</P>
+            <P>(b) [Reserved]</P>
+          </SECTION>
+          <SECTION>
+            <SECTNO>§ 764.232</SECTNO>
+            <SUBJECT>Eligibility requirements.</SUBJECT>
+            <P>(a) The applicant:</P>
+            <P>(1) Must comply with general eligibility requirements specified in § 764.101 except paragraphs (e) and (k) of that section;</P>
+            <P>(2) And anyone who will sign the promissory note, must not have received debt forgiveness from the Agency on any direct or guaranteed loan; and</P>
+            <P>(3) Must be the owner-operator or tenant-operator of a farm and be engaged in agricultural production after the time of loan is closed. In the case of an entity:</P>
+            <P>(i) The entity is controlled by farmers engaged primarily and directly in farming in the United States;</P>
+            <P>(ii) The entity must be authorized to operate a farm in the State in which the farm is located.</P>
+            <P>(b) [Reserved]</P>
+          </SECTION>
+          <SECTION>
+            <SECTNO>§ 764.233</SECTNO>
+            <SUBJECT>Limitations.</SUBJECT>
+
+            <P>(a) The applicant must comply with the general limitations specified in<PRTPAGE P="54016"/>§ 764.102 except § 764.102(f), which does not apply to applicants for the CL Program.</P>
+            <P>(b) The applicant must agree to repay any duplicative financial benefits or assistance to CL.</P>
+          </SECTION>
+          <SECTION>
+            <SECTNO>§ 764.234</SECTNO>
+            <SUBJECT>Rates and terms.</SUBJECT>
+            <P>(a)<E T="03">Rates.</E>The interest rate:</P>
+            <P>(1) Will be the Agency's Direct Farm Ownership rate, available in each Agency office.</P>
+            <P>(2) Charged will be the lower rate in effect either at the time of loan approval or loan closing.</P>
+            <P>(b)<E T="03">Terms.</E>The following terms apply to CLs:</P>
+            <P>(1) The Agency schedules repayment of a CL based on the useful life of the security.</P>
+            <P>(2) The maximum term for loans secured by chattels only will not exceed 7 years from the date of the note.</P>
+            <P>(3) In no event will the term of the loan exceed 20 years from the date of the note.</P>
+          </SECTION>
+          <SECTION>
+            <SECTNO>§ 764.235</SECTNO>
+            <SUBJECT>Security requirements.</SUBJECT>
+            <P>(a) The loan must be secured:</P>
+            <P>(1) In accordance with requirements established in §§ 764.103 through 764.106; and</P>
+            <P>(2) In the order of priority as follows:</P>
+            <P>(i) By real estate, if available, and then</P>
+            <P>(ii) By chattels, if determined acceptable by the Agency.</P>
+            <P>(b) [Reserved]</P>
+          </SECTION>
+          <SECTION>
+            <SECTNO>§§ 764.236-764.250</SECTNO>
+            <SUBJECT>[Reserved]</SUBJECT>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="765" TITLE="7">
+          <PART>
+            <HD SOURCE="HED">PART 765—DIRECT LOAN SERVICING—REGULAR</HD>
+          </PART>
+          <AMDPAR>37. The authority citation for part 765 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>5 U.S.C. 301 and 7 U.S.C. 1989.</P>
+          </AUTH>
+        </REGTEXT>
+        
+        <REGTEXT PART="765" TITLE="7">
+          <AMDPAR>38. In § 765.101, add paragraph (g) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 765.101</SECTNO>
+            <SUBJECT>Borrower graduation requirements.</SUBJECT>
+            <STARS/>
+            <P>(g) CLs are not subject to graduation requirements under this part.</P>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="765" TITLE="7">
+          <AMDPAR>39. In § 765.152, revise paragraph (b)(6) to read as follows:</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 765.152</SECTNO>
+            <SUBJECT>Types of payments.</SUBJECT>
+            <STARS/>
+            <P>(b) * * *</P>
+            <P>(6) Refunds of duplicate program benefits or assistance to be applied on CL or EM loans; or</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="765" TITLE="7">
+          <SECTION>
+            <SECTNO>§§ 765.205-765.207 and 765.253</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>40. In addition to the amendment set forth above, in 7 CFR part 765, remove the word “graduate” and add, in its place, the words “graduate on any program except for CL” in the following places:</AMDPAR>
+          <AMDPAR>a. In § 765.205 paragraph (b)(6),</AMDPAR>
+          <AMDPAR>b. In § 765.206 paragraph (b)(5),</AMDPAR>
+          <AMDPAR>c. In § 765.207 paragraph (c), and</AMDPAR>
+          <AMDPAR>d. In § 765.253 paragraph (b).</AMDPAR>
+        </REGTEXT>
+        <REGTEXT PART="765" TITLE="7">
+          <SECTION>
+            <SECTNO>§ 765.351</SECTNO>
+            <SUBJECT>[Amended]</SUBJECT>
+          </SECTION>
+          <AMDPAR>41. Amend § 765.351, paragraph (a)(8), by removing the word “credit” and adding, in its place, the words “credit on any program except for CL”.</AMDPAR>
+        </REGTEXT>
+        <REGTEXT PART="766" TITLE="7">
+          <PART>
+            <HD SOURCE="HED">PART 766—DIRECT LOAN SERVICING—SPECIAL</HD>
+          </PART>
+          <AMDPAR>42. The authority citation for part 766 continues to read as follows:</AMDPAR>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>5 U.S.C. 301 and 7 U.S.C. 1981(d) and 1989.</P>
+          </AUTH>
+        </REGTEXT>
+        
+        <REGTEXT PART="765" TITLE="7">
+          <AMDPAR>43. Amend § 766.107 as follows:</AMDPAR>
+          <AMDPAR>a. In paragraph (b) introductory text, add the acronym and punctuation “CL,” immediately after the acronym “OL,”</AMDPAR>
+          <AMDPAR>b. Revise paragraph (c)(2) to read as set forth below, and</AMDPAR>
+          <AMDPAR>c. Add paragraphs (c)(3) and (c)(4) to read as set forth below.</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 766.107</SECTNO>
+            <SUBJECT>Consolidation and rescheduling.</SUBJECT>
+            <STARS/>
+            <P>(c) * * *</P>
+            <P>(2) Except for CL and RL loans, the repayment period cannot exceed 15 years from the date of the consolidation and rescheduling.</P>
+            <P>(3) The repayment schedule for RL loans may not exceed 7 years from the date of rescheduling.</P>
+            <P>(4) The repayment schedule for CLs may not exceed 20 years from the date of the original note or assumption agreement.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <REGTEXT PART="765" TITLE="7">
+          <AMDPAR>44. Amend § 766.108 as follows:</AMDPAR>
+          <AMDPAR>a. In paragraph (a) introductory text, add the acronym and punctuation “CL,” immediately after the acronym “RHF,” and</AMDPAR>
+          <AMDPAR>b. Add paragraph (b)(2)(v) to read as set forth below.</AMDPAR>
+          <SECTION>
+            <SECTNO>§ 766.108</SECTNO>
+            <SUBJECT>Reamortization.</SUBJECT>
+            <STARS/>
+            <P>(b) * * *</P>
+            <P>(2) * * *</P>
+            <P>(v) CLs may not exceed 20 years from the date of the original note or assumption agreement.</P>
+            <STARS/>
+          </SECTION>
+        </REGTEXT>
+        <SIG>
+          <DATED>Signed in Washington, DC, August 31, 2010.</DATED>
+          <NAME>Jonathan W. Coppess,</NAME>
+          <TITLE>Administrator,Farm Service Agency.</TITLE>
+        </SIG>
+      </SUPLINF>
+      <FRDOC>[FR Doc. 2010-22070 Filed 9-2-10; 8:45 am]</FRDOC>
+      <BILCOD>BILLING CODE 3410-05-P</BILCOD>

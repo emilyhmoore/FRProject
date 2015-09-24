@@ -1,0 +1,107 @@
+      <SUPLINF>
+        <HD SOURCE="HED">SUPPLEMENTARY INFORMATION:</HD>
+        <P>This document is also accessible at<E T="03">www.gpoaccess.gov/fr</E>.</P>
+        <P>Section 305(i)(2) of the Magnuson-Stevens Fishery Conservation and Management Act (Magnuson-Stevens Act) authorizes the Council and the Secretary of Commerce (Secretary), through NMFS, to establish a western Pacific community development program for any fishery under the authority of the Council and NMFS. The intent of the program is to provide western Pacific communities access to fisheries that they have traditionally depended upon, but may not have the capabilities to support continued and substantial participation in, possibly due to economic, regulatory, or other barriers.</P>
+        <P>In 2002, NMFS published the eligibility criteria for participating in the western Pacific community development program (67 FR 18512; April 16, 2002), but did not establish a mechanism to solicit and review development plans under the program. To address this, the Council prepared, and the Secretary approved, Amendment 1 to the American Samoa, Hawaii, Marianas, and western Pacific pelagic fishery ecosystem plans (FEPs) to establish this process.</P>
+
+        <P>This final rule codifies the eligibility criteria for participating in the program, and the required content of each community development plan. The Council will review each plan to ensure that it meets the intent of Section 305(i)(2) of the Magnuson-Stevens Act, and that it contains all required information. If the requirements are met, the Council will forward the plan to the NMFS Regional Administrator for review. NMFS will then publish a notice in the<E T="04">Federal Register</E>to solicit public review of, and comment on, the community development plan and any associated environmental review documents. If the plan is approved, NMFS will publish a notice in the<E T="04">Federal Register</E>, describing the plan's authorized activities, and any limiting terms and conditions to ensure proper management and monitoring of the fishing activity.</P>
+        <P>Additional background information on this final rule may be found in the preamble to the proposed rule published on June 16, 2010 (75 FR 34088), and is not repeated here.</P>
+        <P>The public comment period for the proposed rule (75 FR 34088, June 16, 2010) ended on July 20, 2010. NMFS received one comment and responds as follows:</P>
+        <P>
+          <E T="03">Comment:</E>The U.S. Department of the Interior, Fish and Wildlife Service (FWS), Pacific Reefs National Wildlife Refuge Complex, commented that the FWS has regulatory authority within eight national wildlife refuges in the Pacific Remote Island Areas (PRIA), which are closed to commercial fishing. In 2002, NMFS and the FWS agreed that fishing managed through a NMFS fishery management plan would not be allowed within a national wildlife refuge unless specifically authorized by FWS, regardless of whether the refuge was established by action of the President or Secretary of the Interior. The agreement came about as a result of FWS concerns associated with the Fishery Management Plan for Coral Reef Ecosystems of the Western Pacific Region and its final Environmental Impact Statement. As part of this agreement, NMFS published regulations in 50 CFR 660.601. The FWS recommends clarifying that fishing is not allowed within the boundary of a national wildlife refuge unless specifically authorized by the FWS.</P>
+        <P>
+          <E T="03">Response:</E>The referenced 2002 agreement was limited in scope to the Coral Reef Ecosystems Fishery Management Plan and was codified at 50 CFR 600.601. In a final rule published on January 14, 2010 (75 FR 2198), NMFS redesignated the fishing regulations for coral reef ecosystem species in national wildlife refuges from 50 CFR 600.601 to 50 CFR 665.123 (American Samoa), 50 CFR 665.223 (Hawaii), 50 CFR 665.423 (Marianas), and 50 CFR 665.623 (PRIA). The prohibition on fishing for coral reef ecosystem species without FWS permission remains in the regulations. Under the FEP amendments, this final rule establishes only community development program procedures and administration as described in the proposed rule, and does not alter or amend existing agency authorities.</P>
+        <HD SOURCE="HD1">Changes from the Proposed Rule</HD>
+        <P>In § 665.20(e)(1), (2), and (4), regarding the review and approval process, the regulatory language is clarified for internal consistency.</P>
+        <HD SOURCE="HD1">Classification</HD>
+        <P>The Regional Administrator, PIR, NMFS, determined that this final rule is necessary for the conservation and management of western Pacific fisheries, and that it is consistent with the Magnuson-Stevens Act and other applicable laws.</P>
+        <P>This final rule has been determined to be not significant for purposes of Executive Order 12866.</P>
+        <P>The Chief Counsel for Regulation of the Department of Commerce certified to the Chief Counsel for Advocacy of the Small Business Administration during the proposed rule stage that this action would not have a significant economic impact on a substantial number of small entities. The factual basis for the certification was published in the proposed rule and is not repeated here. No comments were received regarding this certification. As a result, a regulatory flexibility analysis was not required, and none was prepared.</P>
+
+        <P>This final rule contains collection-of-information requirements subject to the PRA. These requirements have not yet been approved by OMB, but such approval is expected in the near future. NMFS will publish a notice when these requirements are cleared by OMB and are, therefore, effective (see<E T="02">DATES</E>).</P>
+
+        <P>The public reporting burden for developing and submitting a development plan is estimated to average six hours per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection information. Send comments regarding these burden estimates or any other aspect of this data collection, including suggestions for reducing the burden, to NMFS (see<E T="02">ADDRESSES</E>) and by e-mail to<E T="03">OIRA_Submission@omb.eop.gov</E>, or fax to 202-395-7285.</P>
+        <P>Because approved plans may be subject to additional conditions, this final rule also contains collection-of-information requirements subject to the PRA that have been previously approved by OMB. NMFS estimates that it may receive and process up to five (5) community development plan proposals each year. Therefore, the additional estimated burden on western Pacific community development plan respondents would not exceed the currently-approved burden estimates for the existing PRA collections listed below:</P>
+
+        <P>(1) Approved under 0648-0214, 0648-0577, 0648-0584, 0648-0586, and 0649-0589. (a) PIR logbook family of forms estimated at 5 minutes (min) per reporting action; (b) pre-trip and post-landing notifications estimated at 5 min per reporting action; (c) experimental fishing reports estimated at 4 hours (hr) per reporting action; (d) sales and transshipment reports estimated at 5<PRTPAGE P="54046"/>min per reporting action; (e) report on gear left at sea estimated at 5 min per reporting action; (f) claims for reimbursement for lost fishing time estimated at 4 hr per claim; (g) request for pelagics area closure exemption estimated at 1 hr per request; and (h) observer placement meetings estimated at 1 hr per reporting action. (§§ 665.14, 665.17, 665.105, 665.144, 665.145, 665.205, 665.207, 665.244, 665.247, 665.407, 665.444, 665.445, 665.606, 665.644, 665.645, 665.803, and 665.808.)</P>
+        <P>(2) Approved under 0648-0360, 0648-0361, 0648-0584, 0648-0586, and 0648-0589. PIR gear marking and vessel identification (a) estimated at 45 min to 1 hr 15 min per vessel for vessel identification, and (b) estimated at 2 min for each gear marking. (§§ 665.16, 665.128, 665.228, 665.246, 665.428, 665.628, and 665.804.)</P>
+        <P>(3) Approved under 0648-0441, 0648-0519, and 0648-0584. PIR vessel monitoring system (a) installation, estimated at 4 hr per reporting action; (b) repair and maintenance, estimated at 2 hr per reporting action; and (c) hourly automated position reports, estimated at 24 sec per day. (§ 665.19.)</P>
+        <P>(4) Approved under 0648-0456. PIR seabird interaction reporting (a) at-sea notification, estimated at 1 hr per reporting action; (b) reporting on recovery data form, estimated at 1 hr per reporting action; and (c) specimen tagging, estimated at 30 min per reporting action. (§ 665.815.)</P>
+        <P>(5) Approved under 0648-0462. PIR coral reef logbook reporting (a) at-sea notification, estimated at 3 min per reporting action; (b) logbook reporting, estimated at 30 min per reporting action; and (c) transshipment reports, estimated at 15 min per reporting action. (§§ 665.14, 665.126, 665.226, and 665.426.)</P>
+        <P>(6) Approved under 0648-0463. PIR coral reef special permit (a) application, estimated at 2 hr per application; and (b) special permit appeals, estimated at 3 hr per appeal. (§§ 665.124, 665.224, 665.424, and 665.624.)</P>
+        <P>(7) Approved under 0648-0490, 0648-0577, 0648-0584, 0648-0586, and 0649-0589: (a) PIR permit family of forms estimated at 30 min per permit action; (b) experimental fishing permits, estimated at 2 hr per application; and (c) appeals from permit actions estimated at 2 hr per permit appeal. (§§ 665.13, 665.17, 665.142, 665.162, 665.203, 665.242, 665.262, 665.404, 665.442, 665.462, 665.603, 665.642, 665.662, 665.801, and 665.807.)</P>
+        <P>Notwithstanding any other provision of the law, no person is required to respond to, and no person shall be subject to penalty for failure to comply with, a collection of information subject to the requirements of the PRA, unless that collection of information displays a currently valid OMB control number.</P>
+        <LSTSUB>
+          <HD SOURCE="HED">List of Subjects in 50 CFR Part 665</HD>
+          <P>Community development, Fisheries, Fishing, Western and central Pacific.</P>
+        </LSTSUB>
+        <SIG>
+          <DATED>Dated: August 30, 2010.</DATED>
+          <NAME>Eric C. Schwaab,</NAME>
+          <TITLE>Assistant Administrator for Fisheries,National Marine Fisheries Service.</TITLE>
+        </SIG>
+        <REGTEXT PART="665" TITLE="50">
+          <AMDPAR>For the reasons set out in the preamble, 50 CFR part 665 is amended as follows:</AMDPAR>
+          <PART>
+            <HD SOURCE="HED">PART 665—FISHERIES IN THE WESTERN PACIFIC</HD>
+          </PART>
+          <P>l. The authority citation for part 665 continues to read as follows:</P>
+          <AUTH>
+            <HD SOURCE="HED">Authority:</HD>
+            <P>16 U.S.C. 1801<E T="03">et seq.</E>
+            </P>
+          </AUTH>
+        </REGTEXT>
+        <AMDPAR>2. In part 665, add a new § 665.20 to subpart A read as follows:</AMDPAR>
+        <SECTION>
+          <SECTNO>§ 665.20</SECTNO>
+          <SUBJECT>Western Pacific Community Development Program.</SUBJECT>
+          <P>(a)<E T="03">General.</E>In accordance with the criteria and procedures specified in this section, the Regional Administrator may authorize the direct or incidental harvest of management unit species that would otherwise be prohibited by this part.</P>
+          <P>(b)<E T="03">Eligibility.</E>To be eligible to participate in the western Pacific community development program, a community must meet the following criteria:</P>
+          <P>(1) Be located in American Samoa, Guam, Hawaii, or the Northern Mariana Islands (collectively, the western Pacific);</P>
+          <P>(2) Consist of community residents descended from aboriginal people indigenous to the western Pacific who conducted commercial or subsistence fishing using traditional fishing practices in the waters of the western Pacific;</P>
+          <P>(3) Consist of individuals who reside in their ancestral homeland;</P>
+          <P>(4) Have knowledge of customary practices relevant to fisheries of the western Pacific;</P>
+          <P>(5) Have a traditional dependence on fisheries of the western Pacific;</P>
+          <P>(6) Are currently experiencing economic or other constraints that have prevented full participation in the western Pacific fisheries and, in recent years, have not had harvesting, processing or marketing capability sufficient to support substantial participation in fisheries in the area; and</P>
+          <P>(7) Develop and submit a community development plan to the Council and the NMFS that meets the requirements in paragraph (c) of this section.</P>
+          <P>(c)<E T="03">Community development plan.</E>An eligible community seeking access to a fishery under the authority of the Council and NMFS must submit to the Council a community development plan that includes, but is not limited to, the following information:</P>
+          <P>(1) A statement of the purposes and goals of the plan.</P>
+          <P>(2) A description and justification for the specific fishing activity being proposed, including:</P>
+          <P>(i) Location of the proposed fishing activity.</P>
+          <P>(ii) Management unit species to be harvested, and any potential bycatch.</P>
+          <P>(iii) Gear type(s) to be used.</P>
+          <P>(iv) Frequency and duration of the proposed fishing activity.</P>
+          <P>(3) A statement describing the degree of involvement by the indigenous community members, including the name, address, telephone and other contact information of each individual conducting the proposed fishing activity.</P>
+          <P>(4) A description of how the community and or its members meet each of the eligibility criteria in paragraph (b) of this section.</P>
+          <P>(5) If a vessel is to be used by the community to conduct fishing activities, for each vessel:</P>
+          <P>(i) Vessel name and official number (USCG documentation, state, territory, or other registration number).</P>
+          <P>(ii) Vessel length overall, displacement, and fish holding capacity.</P>
+          <P>(iii) Any valid federal fishing permit number(s).</P>
+          <P>(iv) Name, address, and telephone number of the vessel owner(s) and operator(s).</P>
+          <P>(d)<E T="03">Council review.</E>The Council will review each community development plan to ensure that it meets the intent of the Magnuson-Stevens Act and contains all required information. The Council may consider advice of its advisory panels in conducting this review. If the Council finds the community development plan is complete, it will transmit the plan to the Regional Administrator for review.</P>
+          <P>(e)<E T="03">Agency review and approval.</E>(1) Upon receipt of a community development plan from the Council, the Regional Administrator will review the<PRTPAGE P="54047"/>plan for consistency with paragraphs (b), (c), and (d) of this section, and other applicable laws. The Regional Administrator may request from the applicant additional information necessary to make the determinations pursuant to this section and other applicable laws before proceeding with the review pursuant to paragraph (e)(2) of this section.</P>
+
+          <P>(2) If the Regional Administrator determines that a plan contains the required information and is consistent with paragraphs (b), (c), and (d) of this section, and other applicable laws, NMFS will publish a notice in the<E T="04">Federal Register</E>to solicit public comment on the proposed plan and any associated environmental review documents. The notice will include the following:</P>
+          <P>(i) A description of the fishing activity to be conducted.</P>
+          <P>(ii) The current utilization of domestic annual harvesting and processing capacity (including existing experimental harvesting, if any) of the target, incidental, and bycatch species.</P>
+          <P>(iii) A summary of any regulations that would otherwise prohibit the proposed fishing activity.</P>
+          <P>(iv) Biological and environmental information relevant to the plan, including appropriate statements of environmental impacts on target and non-target stocks, marine mammals, and threatened or endangered species.</P>
+          <P>(3) Within 90 days from the end of the comment period on the plan, the Regional Administrator will notify the applicant in writing of the decision to approve or disapprove the plan.</P>
+          <P>(4) If disapproved, the Regional Administrator will provide the reasons for the plan's disapproval and provide the community with the opportunity to modify the plan and resubmit it for review. Reasons for disapproval may include, but are not limited to, the following:</P>
+          <P>(i) The applicant failed to disclose material information or made false statements related to the plan.</P>
+          <P>(ii) The harvest would contribute to overfishing or would hinder the recovery of an overfished stock, according to the best scientific information available.</P>
+          <P>(iii) The activity would be inconsistent with an applicable law.</P>
+          <P>(iv) The activity would create a significant enforcement, monitoring, or administrative problem, as determined by the Regional Administrator.</P>
+
+          <P>(5) If approved, the Regional Administrator will publish a notice of the authorization in the<E T="04">Federal Register</E>, and may attach limiting terms and conditions to the authorization including, but not limited to, the following:</P>
+          <P>(i) The maximum amount of each management unit species and potential bycatch species that may be harvested and landed during the term of the authorization.</P>
+          <P>(ii) The number, sizes, names, identification numbers, and federal permit numbers of the vessels authorized to conduct fishing activities.</P>
+          <P>(iii) Type, size, and amount of gear used by each vessel, including trip limits.</P>
+          <P>(iv) The times and places where fishing may or may not be conducted.</P>
+          <P>(v) Notification, observer, vessel monitoring, and reporting requirements.</P>
+          <P>(f)<E T="03">Duration.</E>Unless otherwise specified, and unless revoked, suspended, or modified, a plan may be effective for no longer than five years.</P>
+          <P>(g)<E T="03">Transfer.</E>Plans authorized under this section are not transferable or assignable.</P>
+          <P>(h)<E T="03">Sanctions.</E>The Regional Administrator may revoke, suspend or modify a community development plan in the case of failure to comply with the terms and conditions of the plan, any other applicable provision of this part, the Magnuson-Stevens Act, or other applicable laws.</P>
+          <P>(i)<E T="03">Program review.</E>NMFS and the Council will periodically review and assess each plan. If fishery, environmental, or other conditions have changed such that the plan's goals or requirements are not being met, or the fishery has become in an overfished state or overfishing is occurring, the Regional Administrator may revoke, suspend, or modify the plan.</P>
+        </SECTION>
